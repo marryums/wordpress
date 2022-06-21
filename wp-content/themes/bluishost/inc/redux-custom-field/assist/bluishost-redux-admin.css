@@ -1,0 +1,85 @@
+.select2-drop,
+.select2-chosen,
+.seticon{
+  font-family: FontAwesome, sans-serif;
+}
+.showicon{
+	background-color: #008ec2;
+    color: #fff;
+    padding: 4px;
+    border-radius: 3px;
+    margin: 10px 0px;
+    display: inline-block;
+	cursor: pointer;
+}
+.iconbox {
+	overflow-y: scroll;
+    height: 300px;
+	display: none;
+	border: 1px solid #eee;
+    margin-bottom: 12px;
+}
+.seticon{
+    margin: 5px 2px;
+    float: left;
+    width: 23%;
+    border: 1px solid #eee;
+    height: 40px;
+    text-align: center;
+	padding: 2px;
+	cursor: pointer;
+}
+.searchfield {
+	max-width: 532px !important;
+	margin: 10px 0px;
+}
+/*.admin-color-fresh .redux-container-image_select .redux-image-select-selected img, .wp-customizer .redux-container-image_select .redux-image-select-selected img {
+    height: 60px;
+}*/
+.admin-color-fresh #redux-header, .wp-customizer #redux-header {
+    background: #2e5ae8;
+}
+.redux-container #redux-header .mgv1_1{
+    display: none;
+}
+.redux-container #redux-header .display_header span.redux-dev-mode-notice {
+    display: none;
+}
+.wp-core-ui .button-primary {
+    background: #2e5ae8;
+    border-color: #2e5ae8 #2e5ae8 #2e5ae8;
+    box-shadow: 0 1px 0 #2e5ae8;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+}
+.wp-core-ui .button-primary.focus, .wp-core-ui .button-primary.hover, .wp-core-ui .button-primary:focus, .wp-core-ui .button-primary:hover {
+    background: #2e5ae8;
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a{
+    background: #2e5ae8;
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active a, .admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild a, .wp-customizer .redux-sidebar .redux-group-menu li.active a, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild a{
+    background: #2e5ae8;
+    color: #fff;
+}
+.admin-color-fresh .redux-container-switch .cb-enable.selected, .admin-color-fresh .redux-field-container .ui-buttonset .ui-state-active, .wp-customizer .redux-container-switch .cb-enable.selected, .wp-customizer .redux-field-container .ui-buttonset .ui-state-active{
+    background: #2e5ae8 !important;
+    border-color: #2e5ae8 !important;
+}
+.admin-color-fresh #redux-header .display_header span, .wp-customizer #redux-header .display_header span {
+    display: none;
+}
+
+.admin-color-fresh .redux-container-image_select .redux-image-select-selected img, .wp-customizer .redux-container-image_select .redux-image-select-selected img {
+    box-shadow: 0 5px 15px rgba(0,0,0,.3);
+    border: none !important;
+    opacity: 1;
+}
+
+.redux-container-image_select .redux-image-select img, .redux-container-image_select .redux-image-select-selected img, .redux-container-image_select .redux-image-select .tiles, .redux-container-image_select .redux-image-select-selected .tiles {
+    border: none !important;
+    opacity: .65;
+    margin: 5px 0;
+    padding: 3px;
+}

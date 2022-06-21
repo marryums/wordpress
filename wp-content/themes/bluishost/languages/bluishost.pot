@@ -1,0 +1,2500 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bluishost\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-28 05:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.0.4"
+
+#: inc/bluishost-functions.php:103
+msgid " Comments"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:42
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/global/quantity-input.php:30
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:21
+msgid "&laquo;"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:22
+msgid "&raquo;"
+msgstr ""
+
+#: inc/support-functions.php:85
+#, php-format
+msgid "(%1$s)"
+msgstr ""
+
+#: inc/support-functions.php:91
+msgid "(Edit)"
+msgstr ""
+
+#: inc/bluishost-functions.php:105
+msgid "1 Comment"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1392
+msgid "404 Background"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1378
+msgid "404 Description"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1446
+msgid "404 Description Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1364
+msgid "404 Page"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1393
+msgid "404 page background with image, color, etc."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1371
+msgid "404 Text"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1436
+msgid "404 Text Color"
+msgstr ""
+
+#: inc/support-functions.php:242 inc/support-functions.php:380
+msgid ":"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1914
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:184
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:173
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:178
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:317
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: inc/wp_bootstrap_navwalker.php:203
+msgid "Add a menu"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1543
+msgid "Add behance plus URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1743
+msgid "Add Copyright "
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1555
+msgid "Add dribbble plus URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1495
+msgid "Add Facebook URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1209
+msgid "Add Feature"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1206
+msgid "Add Features"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1561
+msgid "Add github URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1507
+msgid "Add google plus URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:357
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:508
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:570
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:896
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:927
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:942
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:951
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:960
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1059
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1068
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1077
+msgid "Add Image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1519
+msgid "Add Instagram URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1531
+msgid "Add linkedin plus URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1549
+msgid "Add pinterest plus URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1537
+msgid "Add rss URL"
+msgstr ""
+
+#: inc/bluishost-widgets-reg.php:20 inc/bluishost-widgets-reg.php:31
+msgid "Add sidebar widgets here."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:744
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:844
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1006
+msgid "Add Slider"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1501
+msgid "Add Twitter URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1525
+msgid "Add vimeo plus URL"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:35
+msgid "Add Your Review"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1513
+msgid "Add youtube URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:356
+msgid "Admin Label"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:364
+msgid "Admin Login Logo"
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:115
+msgid "All In One Seo Pack"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:371
+msgid "Any CSS your write here will run in admin."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:345
+msgid "API Key"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Average"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1587
+msgid "Back to Top"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:436
+msgid "Back to Top Style"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:619
+msgid "Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:242
+msgid "Background Image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1401
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:808
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:931
+msgid "Banner Image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:955
+msgid "Banner Image Four"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1054
+msgid "Banner Image One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:946
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1072
+msgid "Banner Image Three"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:937
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1063
+msgid "Banner Image Two"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1542
+msgid "Behance"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1139
+msgid "Below Post Thumbnail"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing details"
+msgstr ""
+
+#: templates/page-header.php:61
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1073
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1169
+msgid "Blog Pagination Settings"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1127
+msgid "Blog Posts Excerpt"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/bluishost-widgets-reg.php:18
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1221
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1181
+msgid "Blog Widget Title Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1188
+msgid "Blog Widget Title Underline Color"
+msgstr ""
+
+#. Name of the theme
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:897
+msgid "Bluishost"
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:53
+msgid "Bluishost Core"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Bluishost is a Multipurpose Technology, Hosting Business with WHMCS "
+"WordPress Theme designed for All kinds of Technology, Domain and Hosting "
+"Business. Anyone can easily update/edit this Theme to follow our Well Sorted "
+"Documentation."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:61
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:62
+msgid "Bluishost Options"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:245
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:334
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:266
+msgid "Body Background Pattern"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:222
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:308
+msgid "Body Gradient Color One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:230
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:316
+msgid "Body Gradient Color Two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:352
+msgid "Body Pattern"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:294
+msgid "Body Typography"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1061
+msgid "Breadcrumb divider Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1051
+msgid "Breadcrumb Hide/Show"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:648
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:657
+msgid "Button Border Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:676
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:685
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:667
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1151
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1230
+msgid "Button Label"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:694
+msgid "Button Link Behaviour"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:880
+msgid "Button One Image Icon Enable/Disable"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:891
+msgid "Button One Image Icon Image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:784
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:868
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1030
+msgid "Button One Text"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:790
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:874
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1036
+msgid "Button One Url"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:639
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:912
+msgid "Button Two Image Icon Enable/Disable"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:922
+msgid "Button Two Image Icon Image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:796
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:900
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1042
+msgid "Button Two Text"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:802
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:906
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1048
+msgid "Button Two Url"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1156
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1235
+msgid "Button Url"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:324
+msgid "by"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:831
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:981
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1098
+msgid "Center"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1021
+msgid "Check this check box to use overlay."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1288
+msgid "Choose product single page sidebar."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1265
+msgid "Choose shop page sidebar"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1105
+msgid "Choose your blog post column."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1082
+msgid "Choose your blog sidebar layout "
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1229
+msgid "Choose your page sidebar layout "
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:121
+msgid "Classic Editor"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:556
+msgid "Client Area Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:525
+msgid "Client Area Border Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:468
+msgid "Client Area Button"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:486
+msgid "Client Area Button Icon"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:478
+msgid "Client Area Button Image Icon"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:494
+msgid "Client Area Button Text"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:501
+msgid "Client Area Button Url"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:571
+msgid "Client Area Hover Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:540
+msgid "Client Area Hover Border Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:632
+msgid "Client Area Sticky Background"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:646
+msgid "Client Area Sticky Background Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:601
+msgid "Client Area Sticky Border Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:616
+msgid "Client Area Sticky Border Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:594
+msgid "Client Area Sticky Hover Text Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:586
+msgid "Client Area Sticky Text Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:510
+msgid "Client Area Text Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:518
+msgid "Client Area Text Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1258
+msgid "Client Name"
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:79
+msgid "CMB2"
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:85
+msgid "CMB2 Tabs"
+msgstr ""
+
+#: inc/bluishost-functions.php:109
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1010
+msgid "Common Header Background"
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:91
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1742
+msgid "Copyright"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:61
+msgid "Create an account?"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1801
+msgid "CSS Code"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1120
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1177
+msgid "Currency"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1794
+msgid "Custom Css"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:370
+msgid "Custom CSS For admin"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:151
+msgid "Custom Page Settings"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:188
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:192
+msgid "Custom Slider"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:337
+msgid "Custom Theme Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:283
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:613
+msgid "Default opacity 0.5"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:221
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:314
+msgid "Delete"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:203
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:298
+msgid "Description"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:777
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:861
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1023
+msgid "Descriptions"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:714
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:727
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:887
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:918
+msgid "Disable"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:287
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1580
+msgid "Display Back To Top Button"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:280
+msgid "Display Banner Back To Top Button"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:324
+msgid "Display Body Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:215
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:298
+msgid "Display Body Gradient Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:259
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:342
+msgid "Display Body Pattern"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1630
+msgid "Display Footer Pattern"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:460
+msgid "Display Header Social"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:445
+msgid "Display Header Translate Button"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:208
+msgid "Display Preloader"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1283
+msgid "Display Related Project"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1554
+msgid "Dribbble"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1130
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1187
+msgid "Duration"
+msgstr ""
+
+#: comments.php:49
+msgid "E-mail"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1380
+msgid "Either something went wrong or the page dosen&rsquo;t exist anymore."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Email"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:713
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:726
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:886
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:917
+msgid "Enable"
+msgstr ""
+
+#: inc/bluishost-breadcrumbs.php:110
+msgid "Error 404"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1494
+msgid "Facebook"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:199
+msgid "Facts Number"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:294
+msgid "Facts number"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1145
+msgid "Features"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1208
+msgid "Features {#}"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:67
+msgid "First"
+msgstr ""
+
+#: inc/support-functions.php:242 inc/support-functions.php:380
+msgid "Follow Us"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1572
+msgid "Footer"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:426
+msgid "Footer Back to Top Button Switcher"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:495
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1637
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:503
+msgid "Footer Background Pattern"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1769
+msgid "Footer Copyright Ancor Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1750
+msgid "Footer copyright background color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1762
+msgid "Footer Copyright Text Color"
+msgstr ""
+
+#: inc/bluishost-widgets-reg.php:74
+msgid "Footer Four"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1607
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:479
+msgid "Footer Gradient Color One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1615
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:487
+msgid "Footer Gradient Color Two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1652
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:412
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:402
+msgid "Footer Layout Switcher"
+msgstr ""
+
+#: inc/classes/Class-Config.php:98
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1776
+msgid "Footer Menu Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1783
+msgid "Footer Menu Hover Color"
+msgstr ""
+
+#: inc/bluishost-widgets-reg.php:50
+msgid "Footer One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:163
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/bluishost-widgets-reg.php:66
+msgid "Footer Three"
+msgstr ""
+
+#: inc/bluishost-widgets-reg.php:58
+msgid "Footer Two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:463
+msgid "Footer Widget Anchor Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1731
+msgid "Footer widget anchor color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:471
+msgid "Footer Widget Anchor Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1737
+msgid "Footer widget anchor hover color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1706
+msgid "Footer widget background color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1725
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:455
+msgid "Footer widget color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1674
+msgid "Footer Widget Enabled/Disabled"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:447
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1719
+msgid "Footer widget title color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1296
+msgid "gallery"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1248
+msgid "Gallery Info"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:190
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:199
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:155
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:530
+msgid "General"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:565
+msgid "General Background Image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:576
+msgid "General Video Background"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1560
+msgid "Github"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:228
+msgid "Global Settings"
+msgstr ""
+
+#: templates/404.php:55
+msgid "Go to Home"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Good"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1506
+msgid "Google Plus"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:985
+msgid "Gradient Color One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:991
+msgid "Gradient Color Two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1150
+msgid "H1"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1151
+msgid "H2"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1152
+msgid "H3"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1153
+msgid "H4"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1154
+msgid "H5"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1155
+msgid "H6"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:384
+msgid "Header"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:805
+msgid "Header Advertisement"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:233
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:436
+msgid "Header Eight"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:424
+msgid "Header Five"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:420
+msgid "Header Four"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:394
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:403
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:378
+msgid "Header Layout"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:368
+msgid "Header Layout Switcher"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:914
+msgid "Header Menu Background"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:408
+msgid "Header One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:159
+msgid "Header Settings"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:432
+msgid "Header Seven"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:428
+msgid "Header Six"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:733
+msgid "Header Social Icon"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:289
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:416
+msgid "Header Three"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:661
+msgid "Header Top"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:717
+msgid "Header Top Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:789
+msgid "Header Top Background Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:708
+msgid "Header Top Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:776
+msgid "Header Top Icon Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:744
+msgid "Header Top Icon Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:752
+msgid "Header Top Icon Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:670
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:814
+msgid "Header Top Info"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:454
+msgid "Header Translate Button Shortcode"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:412
+msgid "Header Two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:315
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1052
+msgid ""
+"Hide / Show breadcrumb from all page and post ( Default settings hide )."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:469
+msgid "Hide / Show client area button ( Default settings show )."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:734
+msgid "Hide / Show header social icon ( Default settings show )."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:671
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:815
+msgid "Hide / Show header top info ( Default settings show )."
+msgstr ""
+
+#: inc/bluishost-breadcrumbs.php:27
+msgid "Home"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1128
+msgid "How many word you want to show per post in blog "
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themelooks.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://themelooks.us/demo/bluishost/wordpress/"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:186
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:282
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1314
+msgid "Icon"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:759
+msgid "Icon Border Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1385
+msgid "Image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:814
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:964
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1081
+msgid "Image Position"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:831
+msgid "Image Url"
+msgstr ""
+
+#: inc/bluishost-framework/demo-data/demo-import.php:67
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:832
+msgid "Input your advertisement image url "
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1518
+msgid "Instagram"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:365
+msgid "It belongs to the back-end of your website to log-in to admin panel."
+msgstr ""
+
+#: templates/content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:16
+msgid "I’m Looking For"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:89
+msgid "Last"
+msgstr ""
+
+#: templates/404.php:64
+msgid "Layer One"
+msgstr ""
+
+#: templates/404.php:66
+msgid "Layer Three"
+msgstr ""
+
+#: templates/404.php:65
+msgid "Layer Two"
+msgstr ""
+
+#: comments.php:57
+msgid "Leave A Comment"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:829
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:979
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1096
+msgid "Left"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1174
+msgid "Link Pagination"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1530
+msgid "Linkedin"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1273
+msgid "Live Preview Button Text"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:840
+msgid "Logo"
+msgstr ""
+
+#: inc/bluishost-functions.php:183 inc/bluishost-functions.php:184
+#: inc/bluishost-functions.php:188 templates/headers/header-v5.php:98
+#: templates/headers/header-v7.php:48
+msgid "logo"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:867
+msgid "Logo Dimensions (Width/Height)."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:881
+msgid "Logo Top and Bottom Margin."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:679
+msgid "Mail Address One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:686
+msgid "Mail Address Two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1466
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1472
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: templates/headers/header-v5.php:52 templates/headers/header-v5.php:54
+#: templates/headers/header-v4.php:52 templates/headers/header-v4.php:54
+#: templates/headers/header-v7.php:68 templates/headers/header-v7.php:70
+#: templates/headers/header-v6.php:53 templates/headers/header-v6.php:55
+msgid "mailto:"
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:109
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:904
+msgid "Menu"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:943
+msgid "Menu Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:950
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:693
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:700
+msgid "Mobile Number One"
+msgstr ""
+
+#: comments.php:48 woocommerce/single-product-reviews.php:78
+msgid "Name"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:77
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:228
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:701
+msgid "New Tab"
+msgstr ""
+
+#: templates/pagination.php:28
+msgid "Newer Post"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:85
+msgid "next"
+msgstr ""
+
+#: inc/bluishost-functions.php:101
+msgid "No Comments"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:185
+msgid "No Header"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1219
+msgid "No sidebar"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Not that bad"
+msgstr ""
+
+#: templates/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1173
+msgid "Number Pagination"
+msgstr ""
+
+#: templates/pagination.php:27
+msgid "Older Post"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1138
+msgid "On Header"
+msgstr ""
+
+#: inc/bluishost-framework/demo-data/demo-import.php:66
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:60
+msgid "One Click Demo Importer"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:112
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1373
+msgid "Ooops 404 Error !"
+msgstr ""
+
+#: templates/404.php:37
+msgid "Oops ! 404 Error"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:252
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:585
+msgid "Overlay"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1408
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:262
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:594
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1032
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1423
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:273
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:603
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/bluishost-functions.php:158
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1208
+msgid "Page"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1002
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:187
+msgid "Page Header"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1020
+msgid "Page Header Overlay"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1026
+msgid "Page Header Overlay Background"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:217
+msgid "Page Header Settings"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1045
+msgid "Page Header Text Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:119
+msgid "Page Layout"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:227
+msgid "Page Settings"
+msgstr ""
+
+#: inc/bluishost-widgets-reg.php:29
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1220
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1215
+msgid "Page Sidebar Settings"
+msgstr ""
+
+#: inc/bluishost-functions.php:154
+msgid "Pages:"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1802
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Perfect"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1447
+msgid "Pick a description color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1437
+msgid "Pick a text color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:338
+msgid "Pick a unlimited mian color for the theme (default: #3f5efb)."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1548
+msgid "Pinterest"
+msgstr ""
+
+#: comments.php:60
+msgid "Post Comment"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:319
+msgid "Posted on"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:70
+msgid "previous"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1125
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1182
+msgid "Price"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1110
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1167
+msgid "Pricing Info"
+msgstr ""
+
+#: inc/classes/Class-Config.php:97
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1310
+msgid "Product Column"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1337
+msgid "Product Per Page"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:30
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1287
+msgid "Product Single Page sidebar"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:168
+msgid "Progress"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:263
+msgid "progress"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1263
+msgid "Project Done"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:29
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:343
+msgid "Reading Continue"
+msgstr ""
+
+#: templates/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:73
+msgid "Redux Framework"
+msgstr ""
+
+#: woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1350
+msgid "Related products number"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:146
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:244
+msgid "Remove"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1210
+msgid "Remove Feature"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:745
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:845
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1007
+msgid "Remove Slider"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:830
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:980
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1097
+msgid "Right"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1536
+msgid "rss"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1140
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1197
+msgid "Sales Price"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1135
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1192
+msgid "Sales Price Title"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:700
+msgid "Same Page"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:189
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:285
+msgid "Search icon..."
+msgstr ""
+
+#: templates/page-header.php:63
+msgid "Search Result"
+msgstr ""
+
+#: inc/bluishost-breadcrumbs.php:108
+msgid "Search results for:"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1913
+msgid "Section via hook"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1588
+msgid "Select Back to Top."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1081
+msgid "Select blog layout"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1104
+msgid "Select Blog Post Column"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:223
+msgid "Select body gradient color one"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:231
+msgid "Select body gradient color two."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:487
+msgid "Select font awesome icon."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1608
+msgid "Select footer gradient color one"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1616
+msgid "Select footer gradient color two."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:413
+msgid "Select footer layout."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:404
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:379
+msgid "Select header layout."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1228
+msgid "Select Page layout"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1682
+msgid "Select Widget Column"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1307
+msgid "Service Icon"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1379
+msgid "Set 404 description text "
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1372
+msgid "Set 404 text "
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:824
+msgid "Set advertisement image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:557
+msgid "Set background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:243
+msgid "Set background image."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1402
+msgid "Set background ovelay."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:621
+msgid "Set banner background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:650
+msgid "Set banner button background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:659
+msgid "Set banner button border color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:678
+msgid "Set banner button hover background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:687
+msgid "Set banner button hover border color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:669
+msgid "Set banner button hover text color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:641
+msgid "Set banner button text color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:631
+msgid "Set banner text color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1170
+msgid "Set blog pagination."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1182
+msgid "Set Blog Widget Title Color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1189
+msgid "Set Blog Widget Title Underline Color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:238
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:336
+msgid "Set Body Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:246
+msgid "Set body background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:267
+msgid "Set body background pattern."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:310
+msgid "Set Body Gradient Color One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:318
+msgid "Set Body Gradient Color Two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:526
+msgid "Set border color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1062
+msgid "Set breadcrumb divider color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:495
+msgid "Set client area button text."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:502
+msgid "Set client area button url."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:511
+msgid "Set color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1011
+msgid "Set common header background."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:193
+msgid "Set custom slider shortcode."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1623
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:497
+msgid "Set Footer Background Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1638
+msgid "Set footer background pattern."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1770
+msgid "Set footer copyright ancor color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1763
+msgid "Set footer copyright text color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:481
+msgid "Set Footer Gradient Color One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:489
+msgid "Set Footer Gradient Color Two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1777
+msgid "Set footer menu color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1784
+msgid "Set footer menu hover color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:457
+msgid "Set Footer Text Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:465
+msgid "Set Footer Widget Anchor Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:473
+msgid "Set Footer Widget Anchor Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1707
+msgid "Set footer widget background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:449
+msgid "Set Footer Widget Title Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:915
+msgid "Set header menu background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:944
+msgid "Set header menu color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:951
+msgid "Set header menu hover color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:958
+msgid "Set header sub menu color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:965
+msgid "Set header sub menu hover color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:718
+msgid "Set header top background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:790
+msgid "Set header top background hover color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:709
+msgid "Set header top color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:777
+msgid "Set header top icon background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:745
+msgid "Set header top icon color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:753
+msgid "Set header top icon hover color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:572
+msgid "Set hover background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:541
+msgid "Set hover border color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:519
+msgid "Set hover color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1351
+msgid "Set how many related products you want to show in single product page."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:760
+msgid "Set icon border color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1386
+msgid "Set image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:868
+msgid "Set logo dimensions to choose width, height, and unit."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:884
+msgid "Set logo top and bottom margin."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:680
+msgid "Set mail address one"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:687
+msgid "Set mail address two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1467
+msgid "Set mailchimp api key."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1473
+msgid "Set mailchimp list id."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:694
+msgid "Set mobile number one"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:701
+msgid "Set mobile number two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1027
+msgid "Set overlay background."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1409
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:263
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:595
+msgid "Set overlay color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1033
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:274
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:604
+msgid "Set overlay opacity."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1424
+msgid "set overlay opacity."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:253
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:586
+msgid "Set overlay."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:144
+msgid "Set page content wrapper top and bottom padding."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1046
+msgid "Set page header text color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:128
+msgid ""
+"Set page layout container,container fluid,fullwidth or both. It's work only "
+"in template builder page."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1216
+msgid "Set page sidebar."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1264
+msgid "Set Shop Page Sidebar."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1135
+msgid "Set single post title display position."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1163
+msgid "Set single post title tag color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1147
+msgid "Set single post title tag."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:203
+msgid "Set slider."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:633
+msgid "Set sticky background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:647
+msgid "Set sticky background hover color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:602
+msgid "Set sticky border color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:617
+msgid "Set sticky border hover color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:928
+msgid "Set sticky header menu background color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:972
+msgid "Set sticky header menu color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:979
+msgid "Set sticky header menu hover color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:986
+msgid "Set sticky header sub menu color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:993
+msgid "Set sticky header sub menu hover color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:595
+msgid "Set sticky hover text color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:587
+msgid "Set sticky text color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:455
+msgid "Set translate button shortcode."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:346
+msgid "Set your google map api key"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1311
+msgid "Set your woocommerce product column."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:577
+msgid "Set youtube video id."
+msgstr ""
+
+#. Name of the template
+msgid "Shop Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Shop Left Sidebar"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1343
+msgid "Shop page title on/off"
+msgstr ""
+
+#. Name of the template
+msgid "Shop Right Sidebar"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1600
+msgid "Show / Hide Footer Gradient Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:428
+msgid "Show footer back to top button  ( Default Setting Hide )."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:370
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:404
+msgid ""
+"Show Means Custom Layout Settings and Hide Means Global Layout Settings. If "
+"You Select Hide Then It Will Control From Theme Option ( Default Setting "
+"Hide )."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1278
+msgid "Show Share Icons"
+msgstr ""
+
+#. %d: total results
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1134
+msgid "Single post title display position"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1146
+msgid "Single post title tag"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1162
+msgid "Single post title tag color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:850
+msgid "Site Logo"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:72
+msgid "Slide"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:186
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:202
+msgid "Slider"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:707
+msgid "Slider Dots"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:526
+msgid "Slider Info"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:720
+msgid "Slider Navs"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:534
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:557
+msgid "Slider One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:542
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:559
+msgid "Slider Three"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:538
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:558
+msgid "Slider Two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:553
+msgid "Slider Version"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:743
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:843
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1005
+msgid "Slider {#}"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:176
+msgid "Slider/Page Header Active"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:127
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:234
+msgid "slides image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1115
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1172
+msgid "Small Title"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1487
+msgid "Social"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1195
+msgid "social share box show/hide"
+msgstr ""
+
+#: templates/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:927
+msgid "Sticky header Menu Background"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:858
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:971
+msgid "Sticky Menu Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:978
+msgid "Sticky Menu Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:985
+msgid "Sticky Sub Menu Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:992
+msgid "Sticky Sub Menu Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1591
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:440
+msgid "Style One"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1592
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:441
+msgid "Style Two"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:957
+msgid "Sub Menu Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:964
+msgid "Sub Menu Hover Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1253
+msgid "Sub Title"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Submit"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1459
+msgid "Subscribe"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:326
+msgid "Switch On Display Body Background"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:300
+msgid "Switch On Display Body Gradient Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:344
+msgid "Switch On Display Body Pattern"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:288
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1581
+msgid "Switch On to Display back to top button."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:281
+msgid "Switch on to display banner back to top button."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:216
+msgid "Switch On to Display body gradient."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:260
+msgid "Switch On to Display body pattern."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1631
+msgid "Switch On to Display footer pattern."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:461
+msgid "Switch on to display header social media."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:446
+msgid "Switch on to display header Translate Option."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:209
+msgid "Switch On to Display Preloader."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:239
+msgid "Switch On to set body color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1624
+msgid "Switch On to set footer color."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1601
+msgid "Switch On to set footer gradient color."
+msgstr ""
+
+#: templates/headers/header-v5.php:61 templates/headers/header-v5.php:63
+#: templates/headers/header-v4.php:61 templates/headers/header-v4.php:63
+#: templates/headers/header-v7.php:77 templates/headers/header-v7.php:79
+#: templates/headers/header-v6.php:62 templates/headers/header-v6.php:64
+msgid "tel:"
+msgstr ""
+
+#. Name of the template
+msgid "Template Builder"
+msgstr ""
+
+#. Name of the template
+msgid "Template WHMCS"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1940
+msgid "Testing filter hook!"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:824
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:974
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1091
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:629
+msgid "Text Color"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:895
+msgid "Text Logo"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1850
+msgid "The compiler hook has run!"
+msgstr ""
+
+#: templates/404.php:75
+msgid ""
+"The page you are looking for was moved, removed, renamed or might be never "
+"exist."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:172
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:177
+msgid "Theme Information 2"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeLooks"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:158
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:254
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:771
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:855
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1017
+msgid "Title"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1219
+msgid "Title Bold"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1224
+msgid "Title Normal"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:755
+msgid "Title Tag"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:136
+msgid "Top and Bottom Padding"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1500
+msgid "Twitter"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:299
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:320
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1196
+msgid "Uncheck to hide social share-box in single post view"
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:139
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:242
+msgid "Upload"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:823
+msgid "Upload Advertisement Image"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1289
+msgid "Upload Gallery Images"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:480
+msgid "Upload header login button icon ( recommendation png format )."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:852
+msgid "Upload your site logo for header ( recommendation png format )."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:860
+msgid "Upload your site logo for sticky header ( recommendation png format )."
+msgstr ""
+
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:207
+#: inc/redux-custom-field/bluishost-option-slide-add-field.php:301
+#: inc/bluishost-framework/bluishost-meta/bluishost-config.php:1268
+msgid "URL"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1344
+msgid "Use switch to show or hide WooCommerce shop page title ."
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:33
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Very poor"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1524
+msgid "Vimeo"
+msgstr ""
+
+#: comments.php:50
+msgid "Website"
+msgstr ""
+
+#: comments.php:52
+msgid "What&rsquo;s happening in your mind about this post !"
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:103
+msgid "WHMCS Bridge"
+msgstr ""
+
+#. 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bluishost-widgets-reg.php:40
+msgid "Woo Page Sidebar"
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:97
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1257
+msgid "Woocommerce Page"
+msgstr ""
+
+#: inc/bluishost-framework/plugins-activation/bluishost-active-plugins.php:66
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:896
+msgid ""
+"Write your logo text use as logo ( You can use span tag for text color )."
+msgstr ""
+
+#: comments.php:55
+msgid "Write your text"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/support-functions.php:94
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1880
+msgid "your custom error message"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1885
+msgid "your custom warning message"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:25
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: inc/bluishost-framework/bluishost-options/bluishost-option.php:1512
+msgid "Youtube"
+msgstr ""

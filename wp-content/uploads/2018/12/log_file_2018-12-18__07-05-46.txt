@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: SinGara Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://www.themelooks.org/test
+Data file = /home/thempruk/public_html/test/wp-content/themes/bluishost/inc/bluishost-framework/demo-data/bluishost-demo.xml
+Widget file = /home/thempruk/public_html/test/wp-content/themes/bluishost/inc/bluishost-framework/demo-data/bluishost-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+bluishost_opt -> /home/thempruk/public_html/test/wp-content/themes/bluishost/inc/bluishost-framework/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Bluishost :: Latest News / Recent News - Recent Post - Imported
+Categories - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Tag Cloud - Tags - Imported
+Image - No Title - Imported
+
+Page Sidebar : 
+
+Search - No Title - Imported
+Bluishost :: Latest News / Recent News - Recent News - Imported
+Categories - Categories - Imported
+Archives - Archives - Imported
+Tag Cloud - Tags - Imported
+Bluishost :: Latest News / Recent News - Recent News - Imported
+
+Woo Page Sidebar : 
+
+Product Search - No Title - Imported
+Active Product Filters - Active filters - Imported
+Cart - Cart - Imported
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Rating - Average rating - Imported
+Recent Product Reviews - Recent reviews - Imported
+
+Footer One : 
+
+Bluishost :: Latest News / Recent News - Recent News - Imported
+
+Footer Two : 
+
+Custom HTML - Contact Us - Imported
+Bluishost :: Contact Us - No Title - Imported
+
+Footer Three : 
+
+Bluishost :: Contact Form - Get In Touch - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: bluishost_opt finished successfully!
+
+---pt-ocdi/after_import---
+

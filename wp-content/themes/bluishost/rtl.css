@@ -1,0 +1,449 @@
+/*============================================
+
+NOTE:
+-----
+Please DO NOT EDIT THIS CSS, you may need to use "custom.css" file for writing your custom css.
+We may release future updates so it will overwrite this file. it's better and safer to use "custom.css".
+
+=============================================*/
+
+.register-button, .header-menu > ul {
+    text-align: left;
+}
+.header-menu > ul ul {
+    text-align: right;
+}
+.header-menu > ul > li + li {
+    margin-left: 0;
+    margin-right: 40px;
+}
+.header-menu ul > .menu-item + .menu-item:before {
+    left: auto;
+    right: -25px;
+}
+.register-button i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+ul.list-inline > li:not(:last-child) {
+    margin-right: 0;
+    margin-left: 15px;
+}
+.author-image {
+    margin-right: 0;
+    margin-left: 30px;
+}
+.comment-author {
+    margin-right: 0;
+    margin-left: 15px;
+}
+.single-comment a {
+    right: auto;
+    left: -40px;
+}
+.comment-content > a:hover {
+    left: 0;
+    right: auto;
+}
+.comment-reply {
+    margin-left: 0;
+    margin-right: 65px;
+}
+.ColorSwitcher {
+    left: auto;
+    right: -260px;
+    transition: right .2s;
+}
+.ColorSwitcher--open {
+    right: 0;
+}
+.ColorSwitcher__control {
+    left: 0;
+    right: 100%;
+    box-shadow: -5px 0 7px rgba(0,0,0,.15);
+}
+.header-menu ul ul {
+    left: auto;
+    right: -9999px;
+}
+.header-menu > ul > li:hover > ul {
+    right: auto;
+    left: inherit;
+}
+.header-menu ul ul li a:before, .header-menu ul ul li.active a:before, .header-menu ul ul li:hover > a:before {
+    left: auto;
+    right: 10px;
+}
+.header-menu ul ul li a:hover:before, .header-menu ul ul li.active a:before, .header-menu ul ul li:hover > a:before {
+    left: auto;
+    right: 20px;
+}
+.header-menu ul ul li a:hover, .header-menu ul ul li.active a, .header-menu ul ul li:hover > a {
+    padding-left: inherit;
+    padding-right: 30px;
+}
+.header-menu ul ul > li:hover > ul {
+    left: auto;
+    right: 188px;
+}
+.header-menu ul ul ul:before {
+    left: auto;
+    right: -7px;
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+}
+.header-menu ul ul ul:after {
+    left: auto;
+    right: -10px;
+}
+.single-home-feature h3:before {
+    left: auto;
+    right: 0;
+}
+.review-info i {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.subscribe-form input[type=submit] {
+    right: auto;
+    left: 5px;
+}
+.post-content > a i {
+    margin-left: 0;
+    margin-right: 5px;
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+}
+.header-menu ul ul li a i {
+    right: auto;
+    left: 15px;
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+}
+.widget-title:before {
+    left: auto;
+    right: 0;
+}
+.footer-contacts ul li {
+    padding-left: 0;
+    padding-right: 100px;
+}
+.footer-contacts ul li span {
+    left: auto;
+    right: 0;
+}
+.footer-contacts ul li span i {
+    float: left;
+    margin-right: 0;
+    margin-left: 5px;
+}
+.footer-contacts ul li:last-child a + a {
+    margin-left: 0;
+    margin-right: 12px;
+}
+.member-info:before {
+    -webkit-transform: skewY(9deg);
+    transform: skewY(9deg);
+}
+.member-info ul li:not(:last-child) {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.footer-menu li:not(:last-child) {
+    margin-right: 0 !important;
+    margin-left: 25px !important;
+}
+.sidebar-list li a span {
+    float: left;
+}
+.more-post li:first-child {
+    text-align: left;
+}
+.more-post li i {
+    display: inline;
+}
+.tag-cat a {
+    margin-left: 0;
+    margin-right: 6px;
+}
+.share-icons li {
+    margin-left: 0 !important;
+    margin-right: 15px !important;
+}
+.post-author > img {
+    margin-right: 0;
+    margin-left: 20px;
+    float: right;
+}
+.post-author-info {
+    padding-left: 0;
+    padding-right: 15px;
+    border-left: 0;
+    border-right: 1px solid #e1eeff;
+}
+.comment-content > a i {
+    margin-right: 0;
+    margin-left: 7px;
+}
+.contact-info li {
+    padding-left: 0;
+    padding-right: 75px;
+}
+.contact-info li span {
+    left: auto;
+    right: 0;
+}
+.contact-social-icons li:first-child {
+    margin-right: 0 !important;
+}
+.input-group>.custom-select:not(:last-child), .input-group>.form-control:not(:last-child) {
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+.domain-checker input[type="text"] {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+[dir=rtl] .domain-checker input[type=submit] {
+    border-radius: 100px 0 0 100px;
+}
+.domain-checker .input-group ul {
+    left: auto;
+    right: 30px;
+}
+.domain-table tbody a i {
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+}
+
+.parsley-errors-list {
+    left: auto;
+    right: 15px;
+}
+
+.search-form input, .woocommerce-product-search input { float: right; }
+.search-form button, .woocommerce-product-search button {
+    float: left;
+    border-left: 1px solid #e1eeff;
+    border-right: 0;
+}
+
+.widget_categories ul li span,
+.widget_archive ul li span {
+    float: left;
+}
+
+.widget-title:before, .widget.woocommerce h2:before {
+    left: auto;
+    right: 0;
+}
+
+.widget_product_categories ul ul {
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.product--item {
+    text-align: right;
+}
+
+.woocommerce div.product p.price del, .woocommerce div.product span.price del {
+    margin-right: 0;
+    margin-left: 8px;
+}
+
+.woocommerce-product-gallery {
+    direction: ltr;
+}
+
+.woocommerce-product-gallery .woocommerce-product-gallery__trigger img {
+    display: none !important;
+}
+
+.product--summery .nav li + li {
+    margin-left: 0;
+    margin-right: 15px;
+}
+
+.product--quantity.pull-left {
+    float: right;
+}
+
+.woocommerce div.product form.cart .button {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.product--details-tab-nav ul li:not(:last-child) {
+    margin-right: 0;
+    margin-left: 3px;
+}
+
+/* Responsive fix */
+@media (max-width: 1199.98px){
+    .our-clients li:not(:first-child) {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+    .domain-price li + li {
+        margin-left: 0;
+        margin-right: 15px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .header-menu ul, .header-menu ul ul, .header-menu ul ul ul, .header-menu > ul, .header-menu.align-center > ul, .header-menu > ul > li > ul, .header-menu > ul > li:hover > ul, .header-menu ul ul li:hover > ul {
+        text-align: right;
+    }
+    .header-menu .submenu-button {
+        right: auto;
+        left: 0;
+        border-left: 0;
+        border-right: 1px solid rgba(120, 120, 120, 0.2);
+    }
+    .header-menu ul ul li a {
+        padding-left: 15px !important;
+        padding-right: 30px !important;
+    }
+    .header-menu ul ul ul li a {
+        padding-left: 15px !important;
+        padding-right: 45px !important;
+    }
+    .header-menu > ul > li + li {
+        margin-right: 0;
+    }
+    .header-menu ul ul > li:hover > ul {
+        right: 0;
+    }
+    .header-menu {
+        text-align: left;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .domain-price li {
+        margin-right: 10px !important;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .header-menu {
+        text-align: left;
+    }
+}
+
+
+/* new */
+.btn-icon svg, 
+.btn-icon img {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.domain-search-form button[type=submit] {
+    right: auto;
+    left: 20px;
+}
+
+.section-title.style--3 p:after {
+    left: auto;
+    right: 0;
+}
+
+.review-controls .carousel-control svg {
+   transform: rotate(180deg);
+}
+
+/* Home 4 */
+.domain-search-form--2 button[type=submit] {
+    left: 5px;
+    right: auto;
+}
+
+.banner-image.banner-img--4 img:nth-child(2) {
+    right: auto;
+    left: 0;
+}
+
+.banner-image.banner-img--4 img:nth-child(3) {
+    right: auto;
+    left: 17%;
+}
+
+.single-feature--4 .feature-text {
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.review-slider--3 .single-review .single-review-inner {
+    padding: 40px 135px 50px 50px;
+}
+
+.review-slider--3 .single-review .review-image {
+    left: auto;
+    right: -70px;
+}
+
+.review-slider--3 .single-review .single-review-inner {
+    margin-right: 40px;
+    margin-left: 0;
+}
+
+
+@media (max-width: 991.98px) {
+    #mega-menu-wrap-primary-menu #mega-menu-primary-menu li.mega-menu-item > ul.mega-sub-menu {
+        box-shadow: 0;
+    }
+
+    .header-menu ul, 
+    .header-menu ul ul, 
+    .header-menu ul ul ul, 
+    .header-menu > ul, 
+    .header-menu.align-center > ul, 
+    .header-menu > ul > li > ul, 
+    .header-menu > ul > li:hover > ul,
+    .header-menu ul ul li:hover > ul {
+        text-align: right;
+    }
+
+    .header-menu .submenu-button {
+        right: auto;
+        left: 0;
+        border-left: 0;
+        border-right: 1px solid rgba(120, 120, 120, 0.2);
+    }
+
+    .header-menu ul ul li a {
+        padding-left: 15px !important;
+        padding-right: 30px !important;
+    }
+
+    .header-menu ul ul ul li a {
+        padding-left: 15px !important;
+        padding-right: 45px !important;
+    }
+
+    .header-menu > ul > li + li {
+        margin-right: 0;
+    }
+
+    .header-menu ul ul > li:hover > ul {
+        right: 0;
+    }
+
+    .header-menu {
+        text-align: left;
+    }
+
+    .banner-image.banner-img--4 img:nth-child(3) {
+        left: 10%;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    #mega-menu-wrap-primary-menu #mega-menu-primary-menu > li.mega-menu-item {
+        margin: 0;
+    }
+}

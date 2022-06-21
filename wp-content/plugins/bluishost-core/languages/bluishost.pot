@@ -1,0 +1,2725 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bluishost Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-21 04:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: bluishost-elements/service.php:573
+msgid " Back Icon Color"
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:107
+#: bluishost-elements/feature.php:285
+msgid " Background Color"
+msgstr ""
+
+#: bluishost-elements/pricing.php:314
+msgid " Background Primary Color"
+msgstr ""
+
+#: bluishost-elements/pricing.php:324
+msgid " Background Secondary Color"
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:101
+#: bluishost-elements/section-heading.php:207
+msgid " Border Color"
+msgstr ""
+
+#: bluishost-elements/feature.php:275
+msgid " Bottom Border Color"
+msgstr ""
+
+#: bluishost-elements/service.php:605
+msgid " Button / Link Color"
+msgstr ""
+
+#: bluishost-elements/service.php:615
+msgid " Button / Link Hover Color"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:176
+msgid " Button Leve Color"
+msgstr ""
+
+#: bluishost-elements/service.php:599
+msgid " Content Color"
+msgstr ""
+
+#: bluishost-elements/feature-group.php:240 bluishost-elements/feature.php:265
+msgid " Description Color"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:170
+msgid " Extension & Price Color"
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:83
+msgid " Extension Border Color"
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:77
+msgid " Extension Color"
+msgstr ""
+
+#: bluishost-elements/service.php:625
+msgid " Front Background Color"
+msgstr ""
+
+#: bluishost-elements/service.php:563
+msgid " Front Icon Color"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:158
+msgid " Heading Background Color"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:330
+#: bluishost-elements/domain-name.php:152
+msgid " Heading Color"
+msgstr ""
+
+#: bluishost-elements/service.php:583
+msgid " Icon Border Color"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:342
+#: bluishost-elements/facilities.php:207
+#: bluishost-elements/feature-group.php:228 bluishost-elements/feature.php:253
+#: bluishost-elements/service.php:553 bluishost-elements/social-icon.php:101
+#: bluishost-elements/video.php:222
+msgid " Icon Color"
+msgstr ""
+
+#: bluishost-elements/social-icon.php:107
+msgid " Icon Hover Color"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:188
+msgid " More Button Background Color"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:200
+msgid " More Button Background Hover Color"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:182
+msgid " More Button Text Color"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:194
+msgid " More Button Text Hover Color"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:113
+#: bluishost-elements/counter.php:72
+msgid " Number Color"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:55
+msgid " Patter Background Color"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:75
+msgid " Patter Gradient Color One"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:84
+msgid " Patter Gradient Color Two"
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:95
+msgid " Price Color"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:336
+#: bluishost-elements/contact-schedule.php:107
+#: bluishost-elements/domain-extension.php:89
+#: bluishost-elements/domain-name.php:164 bluishost-elements/video.php:228
+msgid " Text Color"
+msgstr ""
+
+#: bluishost-elements/pricing.php:302
+msgid " Text Primary Color"
+msgstr ""
+
+#: bluishost-elements/pricing.php:308
+msgid " Text Secondary Color"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:101
+#: bluishost-elements/counter.php:66 bluishost-elements/facilities.php:213
+#: bluishost-elements/feature-group.php:234 bluishost-elements/feature.php:259
+#: bluishost-elements/service.php:593 bluishost-elements/single-reason.php:83
+msgid " Title Color"
+msgstr ""
+
+#: bluishost.php:184 bluishost.php:193
+msgid "(Check out the "
+msgstr ""
+
+#: bluishost-elements/blog.php:468
+msgid "+ Read More"
+msgstr ""
+
+#: inc/contact-information-widget.php:79 inc/contact-information-widget.php:95
+#: inc/contact-information-widget.php:102
+msgid ":"
+msgstr ""
+
+#: bluishost-elements/about.php:32 inc/about-widget.php:80
+msgid "About"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:90 bluishost-elements/pricing.php:51
+msgid "Active"
+msgstr ""
+
+#: bluishost.php:28
+msgid "Active License"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:134
+msgid "Active Overlay"
+msgstr ""
+
+#: inc/about-widget.php:30
+msgid "Add footer About Content"
+msgstr ""
+
+#: inc/contact-form-widget.php:30
+msgid "Add footer contact form"
+msgstr ""
+
+#: inc/contact-information-widget.php:28
+msgid "Add footer Contact Information content"
+msgstr ""
+
+#: bluishost-elements/button.php:94
+msgid "Add Icon?"
+msgstr ""
+
+#: inc/latest-news-widget.php:30
+msgid "Add Latest News/Recent News/Latest Blog Content"
+msgstr ""
+
+#: inc/social-widget.php:30
+msgid "Add social widget"
+msgstr ""
+
+#: inc/subscribe-widget.php:27
+msgid "Add subscribe widget form"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:274
+#: bluishost-elements/contact-info.php:461
+#: inc/contact-information-widget.php:102
+msgid "Address"
+msgstr ""
+
+#: inc/contact-information-widget.php:193
+msgid "Address:"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:40
+msgid "Alignment"
+msgstr ""
+
+#: bluishost-elements/about.php:124 bluishost-elements/blog.php:217
+#: bluishost-elements/bluishost-section.php:155
+#: bluishost-elements/brand.php:123 bluishost-elements/button.php:333
+#: bluishost-elements/contact-form.php:72
+#: bluishost-elements/contact-info.php:348
+#: bluishost-elements/contact-schedule.php:119
+#: bluishost-elements/counter.php:78
+#: bluishost-elements/domain-extension.php:114
+#: bluishost-elements/domain-name.php:207
+#: bluishost-elements/domain-search.php:336
+#: bluishost-elements/facilities.php:249
+#: bluishost-elements/feature-group.php:250 bluishost-elements/feature.php:295
+#: bluishost-elements/map.php:66 bluishost-elements/newsletter.php:113
+#: bluishost-elements/pricing-filter.php:263 bluishost-elements/pricing.php:286
+#: bluishost-elements/section-heading.php:120
+#: bluishost-elements/section-heading.php:191
+#: bluishost-elements/section-heading.php:213
+#: bluishost-elements/service.php:684 bluishost-elements/single-reason.php:120
+#: bluishost-elements/social-icon.php:113
+#: bluishost-elements/team-single-el.php:121
+#: bluishost-elements/testimonial.php:529 bluishost-elements/video.php:244
+msgid "Animation Style"
+msgstr ""
+
+#: bluishost-elements/pricing.php:295 bluishost-elements/service.php:693
+#: bluishost-elements/team-single-el.php:131
+msgid "Animation Time Delay"
+msgstr ""
+
+#: inc/bluishostcore-functions.php:208
+msgid "Api key or list id missing."
+msgstr ""
+
+#: bluishost-elements/service.php:636
+msgid "Back Background Color"
+msgstr ""
+
+#: bluishost-elements/service.php:363
+msgid "Back Icon Type"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:129
+msgid "Background Bottom Position"
+msgstr ""
+
+#: bluishost-elements/brand.php:94 bluishost-elements/button.php:287
+#: bluishost-elements/domain-search.php:194
+#: bluishost-elements/domain-search.php:220 bluishost-elements/pricing.php:335
+#: bluishost-elements/pricing.php:350 bluishost-elements/pricing.php:481
+#: bluishost-elements/service.php:651 bluishost-elements/testimonial.php:400
+#: bluishost-elements/testimonial.php:446
+msgid "Background Color"
+msgstr ""
+
+#: bluishost-elements/button.php:303 bluishost-elements/domain-search.php:270
+#: bluishost-elements/pricing.php:385 bluishost-elements/pricing.php:400
+#: bluishost-elements/pricing.php:531 bluishost-elements/testimonial.php:496
+msgid "Background Hover Color"
+msgstr ""
+
+#: bluishost-elements/video.php:47
+msgid "Background Image"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:146
+msgid "Background Opacity"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:139
+msgid "Background Overlay Color"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:47
+#: bluishost-elements/testimonial.php:327
+msgid "Background Pattern"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:93
+msgid "Background Rotate"
+msgstr ""
+
+#: bluishost-elements/blog.php:32
+msgid "Blog"
+msgstr ""
+
+#: bluishost-elements/blog.php:41
+msgid "Blog Style"
+msgstr ""
+
+#: bluishost-elements/blog.php:46
+msgid "Blog Style O1"
+msgstr ""
+
+#: bluishost-elements/blog.php:47
+msgid "Blog Style O2"
+msgstr ""
+
+#: bluishost-elements/about.php:36 bluishost-elements/blog.php:36
+#: bluishost-elements/bluishost-section.php:37 bluishost-elements/brand.php:35
+#: bluishost-elements/button.php:35 bluishost-elements/contact-form.php:35
+#: bluishost-elements/contact-info.php:35
+#: bluishost-elements/contact-schedule.php:35 bluishost-elements/counter.php:35
+#: bluishost-elements/domain-extension.php:34
+#: bluishost-elements/domain-name.php:34
+#: bluishost-elements/domain-search.php:34 bluishost-elements/facilities.php:36
+#: bluishost-elements/feature-group.php:35 bluishost-elements/feature.php:35
+#: bluishost-elements/map.php:35 bluishost-elements/newsletter.php:35
+#: bluishost-elements/pricing-filter.php:36 bluishost-elements/pricing.php:35
+#: bluishost-elements/section-heading.php:32 bluishost-elements/service.php:36
+#: bluishost-elements/single-reason.php:35
+#: bluishost-elements/social-icon.php:35
+#: bluishost-elements/team-single-el.php:35
+#: bluishost-elements/testimonial.php:35 bluishost-elements/video.php:35
+msgid "Bluishost"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/about-widget.php:27
+msgid "Bluishost :: About Us"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/contact-form-widget.php:27
+msgid "Bluishost :: Contact Form"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/contact-information-widget.php:25
+msgid "Bluishost :: Contact Us"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/social-widget.php:27
+msgid "Bluishost :: FOLLOW US :"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/latest-news-widget.php:27
+msgid "Bluishost :: Latest News / Recent News"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/subscribe-widget.php:24
+msgid "Bluishost :: Subscribe"
+msgstr ""
+
+#. Name of the plugin
+msgid "Bluishost Core"
+msgstr ""
+
+#: bluishost.php:110
+msgid "Bluishost License Info"
+msgstr ""
+
+#: bluishost.php:166
+msgid "Bluishost Licensing"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:31
+msgid "Bluishost Section"
+msgstr ""
+
+#: bluishost-vc-shortcode-param/bluishost-font-container-param.php:183
+msgid "Bold"
+msgstr ""
+
+#: bluishost-elements/button.php:313 bluishost-elements/pricing-filter.php:256
+#: bluishost-elements/pricing.php:564
+msgid "Border Color"
+msgstr ""
+
+#: bluishost-elements/brand.php:111
+msgid "Border Hide"
+msgstr ""
+
+#: bluishost-elements/button.php:323
+msgid "Border Hover Color"
+msgstr ""
+
+#: bluishost-elements/brand.php:31 bluishost-elements/brand.php:43
+#: bluishost-elements/brand.php:54 bluishost-elements/brand.php:74
+#: bluishost-elements/brand.php:100
+msgid "Brand"
+msgstr ""
+
+#: bluishost-elements/brand.php:61 bluishost-elements/brand.php:81
+msgid "Brand Image"
+msgstr ""
+
+#: bluishost-elements/brand.php:40
+msgid "Brand Style"
+msgstr ""
+
+#: bluishost-elements/brand.php:46
+msgid "Brand Style O1"
+msgstr ""
+
+#: bluishost-elements/brand.php:47
+msgid "Brand Style O2"
+msgstr ""
+
+#: bluishost-elements/button.php:31
+msgid "Button"
+msgstr ""
+
+#: bluishost-elements/service.php:527
+msgid "Button / Link Text"
+msgstr ""
+
+#: bluishost-elements/service.php:537
+msgid "Button / Link URL"
+msgstr ""
+
+#: bluishost-elements/about.php:112 bluishost-elements/domain-search.php:205
+#: bluishost-elements/domain-search.php:303
+#: bluishost-elements/newsletter.php:95
+#: bluishost-elements/pricing-filter.php:227 bluishost-elements/pricing.php:445
+#: bluishost-elements/pricing.php:466 bluishost-elements/single-reason.php:107
+#: bluishost-elements/testimonial.php:431
+msgid "Button Background Color"
+msgstr ""
+
+#: bluishost-elements/about.php:118 bluishost-elements/domain-search.php:255
+#: bluishost-elements/domain-search.php:314
+#: bluishost-elements/newsletter.php:101 bluishost-elements/pricing.php:455
+#: bluishost-elements/pricing.php:516 bluishost-elements/single-reason.php:113
+#: bluishost-elements/testimonial.php:481
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: bluishost-elements/newsletter.php:107
+msgid "Button Border Color"
+msgstr ""
+
+#: bluishost-elements/blog.php:199 bluishost-elements/domain-search.php:184
+msgid "Button Color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:234
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: bluishost-elements/blog.php:205
+msgid "Button Hover Color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:248 bluishost-elements/pricing.php:439
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: bluishost-elements/newsletter.php:59
+msgid "Button Level"
+msgstr ""
+
+#: bluishost-elements/newsletter.php:83
+msgid "Button Level Color"
+msgstr ""
+
+#: bluishost-elements/newsletter.php:89
+msgid "Button Level Hover Color"
+msgstr ""
+
+#: bluishost-elements/button.php:81
+msgid "Button Link Behavior"
+msgstr ""
+
+#: bluishost-elements/blog.php:79
+msgid "Button Style"
+msgstr ""
+
+#: bluishost-elements/about.php:61 bluishost-elements/domain-search.php:85
+#: bluishost-elements/pricing-filter.php:111 bluishost-elements/pricing.php:267
+#: bluishost-elements/single-reason.php:62
+msgid "Button Text"
+msgstr ""
+
+#: bluishost-elements/about.php:100 bluishost-elements/domain-search.php:324
+#: bluishost-elements/pricing-filter.php:241 bluishost-elements/pricing.php:433
+#: bluishost-elements/single-reason.php:95
+msgid "Button Text Color"
+msgstr ""
+
+#: bluishost-elements/about.php:106 bluishost-elements/domain-search.php:330
+#: bluishost-elements/single-reason.php:101
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: bluishost-elements/about.php:67 bluishost-elements/pricing-filter.php:117
+#: bluishost-elements/pricing.php:273 bluishost-elements/single-reason.php:70
+msgid "Button Url"
+msgstr ""
+
+#: bluishost-elements/blog.php:402
+msgid "by"
+msgstr ""
+
+#: bluishost-template/single-gallery.php:76
+msgid "Category"
+msgstr ""
+
+#: bluishost-elements/blog.php:102
+msgid "Category Show / Hide"
+msgstr ""
+
+#: bluishost-elements/service.php:61 bluishost-elements/social-icon.php:46
+msgid "Center"
+msgstr ""
+
+#: inc/about-widget.php:122
+msgid "Change Image"
+msgstr ""
+
+#: bluishost-elements/service.php:51 bluishost-elements/video.php:39
+msgid "Choose Style"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:48
+msgid "Choose your alignment"
+msgstr ""
+
+#: bluishost-elements/about.php:126 bluishost-elements/blog.php:219
+#: bluishost-elements/bluishost-section.php:157
+#: bluishost-elements/brand.php:125 bluishost-elements/button.php:335
+#: bluishost-elements/contact-form.php:74
+#: bluishost-elements/contact-info.php:350
+#: bluishost-elements/contact-schedule.php:121
+#: bluishost-elements/counter.php:80
+#: bluishost-elements/domain-extension.php:116
+#: bluishost-elements/domain-name.php:209
+#: bluishost-elements/domain-search.php:338
+#: bluishost-elements/facilities.php:251
+#: bluishost-elements/feature-group.php:253 bluishost-elements/feature.php:55
+#: bluishost-elements/feature.php:298 bluishost-elements/map.php:68
+#: bluishost-elements/newsletter.php:115
+#: bluishost-elements/pricing-filter.php:265 bluishost-elements/pricing.php:288
+#: bluishost-elements/section-heading.php:122
+#: bluishost-elements/section-heading.php:193
+#: bluishost-elements/section-heading.php:215
+#: bluishost-elements/service.php:686 bluishost-elements/single-reason.php:122
+#: bluishost-elements/social-icon.php:115
+#: bluishost-elements/team-single-el.php:123
+#: bluishost-elements/testimonial.php:531 bluishost-elements/video.php:246
+msgid "Choose your animation style"
+msgstr ""
+
+#: bluishost-elements/contact-form.php:47
+msgid "Choose your contact form style"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:47 bluishost-elements/social-icon.php:48
+msgid "Choose your contact info style"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:100
+#: bluishost-elements/testimonial.php:267
+msgid "Client Image"
+msgstr ""
+
+#: bluishost-elements/blog.php:66 bluishost-elements/pricing-filter.php:41
+msgid "Column"
+msgstr ""
+
+#: bluishost-elements/contact-form.php:31
+#: bluishost-elements/contact-form.php:54
+#: bluishost-elements/contact-form.php:61
+msgid "Contact Form"
+msgstr ""
+
+#: bluishost-elements/contact-form.php:40
+msgid "Contact Form Style"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:40
+msgid "Contact Infor Style"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:31
+msgid "Contact Information"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:31
+msgid "Contact Schedule"
+msgstr ""
+
+#: inc/contact-information-widget.php:131
+msgid "Contact Us"
+msgstr ""
+
+#: bluishost-elements/blog.php:178
+msgid "Content Font Size"
+msgstr ""
+
+#: bluishost-elements/counter.php:53
+msgid "Count Number"
+msgstr ""
+
+#: bluishost-elements/counter.php:31 bluishost-elements/counter.php:41
+msgid "Counter"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:58
+msgid "Country Name"
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:50
+#: bluishost-elements/domain-name.php:96
+#: bluishost-elements/pricing-filter.php:72 bluishost-elements/pricing.php:236
+msgid "Currency"
+msgstr ""
+
+#: bluishost-core.php:75
+msgid "Date"
+msgstr ""
+
+#: bluishost-elements/blog.php:45 bluishost-elements/brand.php:45
+#: bluishost-elements/contact-form.php:43
+#: bluishost-elements/contact-info.php:43
+#: bluishost-elements/domain-search.php:43 bluishost-elements/feature.php:44
+#: bluishost-elements/feature.php:67 bluishost-elements/pricing.php:43
+#: bluishost-elements/section-heading.php:41 bluishost-elements/service.php:44
+#: bluishost-elements/social-icon.php:43 bluishost-elements/testimonial.php:45
+#: bluishost-elements/testimonial.php:298
+msgid "Default"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:187
+msgid "Default set font-size 14px, other auto."
+msgstr ""
+
+#: bluishost-elements/section-heading.php:159
+msgid "Default set font-size 36px, other auto."
+msgstr ""
+
+#: bluishost-elements/feature-group.php:259 bluishost-elements/feature.php:304
+msgid "Delay Time"
+msgstr ""
+
+#: bluishost-elements/about.php:55 bluishost-elements/domain-search.php:63
+#: bluishost-elements/newsletter.php:47 bluishost-elements/single-reason.php:53
+#: bluishost-elements/testimonial.php:79 bluishost-elements/testimonial.php:246
+#: bluishost-elements/testimonial.php:285
+msgid "Description"
+msgstr ""
+
+#: bluishost-elements/facilities.php:237
+msgid "Description Background Color"
+msgstr ""
+
+#: bluishost-elements/facilities.php:243
+msgid "Description Background Hover Color"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:138
+#: bluishost-elements/facilities.php:219 bluishost-elements/newsletter.php:77
+#: bluishost-elements/single-reason.php:89
+msgid "Description Color"
+msgstr ""
+
+#: bluishost-elements/facilities.php:195
+#: bluishost-elements/feature-group.php:213 bluishost-elements/feature.php:237
+#: bluishost-elements/service.php:521
+msgid "Descriptions"
+msgstr ""
+
+#: bluishost-elements/about.php:84 bluishost-elements/about.php:90
+#: bluishost-elements/about.php:96 bluishost-elements/about.php:102
+#: bluishost-elements/about.php:108 bluishost-elements/about.php:114
+#: bluishost-elements/about.php:120 bluishost-elements/about.php:129
+#: bluishost-elements/blog.php:124 bluishost-elements/blog.php:130
+#: bluishost-elements/blog.php:140 bluishost-elements/blog.php:146
+#: bluishost-elements/blog.php:154 bluishost-elements/blog.php:173
+#: bluishost-elements/blog.php:181 bluishost-elements/blog.php:189
+#: bluishost-elements/blog.php:195 bluishost-elements/blog.php:201
+#: bluishost-elements/blog.php:207 bluishost-elements/blog.php:213
+#: bluishost-elements/blog.php:222 bluishost-elements/brand.php:106
+#: bluishost-elements/brand.php:119 bluishost-elements/brand.php:128
+#: bluishost-elements/button.php:277 bluishost-elements/button.php:283
+#: bluishost-elements/button.php:293 bluishost-elements/button.php:299
+#: bluishost-elements/button.php:305 bluishost-elements/button.php:315
+#: bluishost-elements/button.php:325 bluishost-elements/button.php:338
+#: bluishost-elements/contact-form.php:68
+#: bluishost-elements/contact-form.php:77
+#: bluishost-elements/contact-info.php:326
+#: bluishost-elements/contact-info.php:332
+#: bluishost-elements/contact-info.php:338
+#: bluishost-elements/contact-info.php:344
+#: bluishost-elements/contact-info.php:353
+#: bluishost-elements/contact-schedule.php:97
+#: bluishost-elements/contact-schedule.php:103
+#: bluishost-elements/contact-schedule.php:109
+#: bluishost-elements/contact-schedule.php:115
+#: bluishost-elements/contact-schedule.php:124
+#: bluishost-elements/counter.php:62 bluishost-elements/counter.php:68
+#: bluishost-elements/counter.php:74 bluishost-elements/counter.php:83
+#: bluishost-elements/domain-extension.php:73
+#: bluishost-elements/domain-extension.php:79
+#: bluishost-elements/domain-extension.php:85
+#: bluishost-elements/domain-extension.php:91
+#: bluishost-elements/domain-extension.php:97
+#: bluishost-elements/domain-extension.php:103
+#: bluishost-elements/domain-extension.php:109
+#: bluishost-elements/domain-extension.php:119
+#: bluishost-elements/domain-name.php:141
+#: bluishost-elements/domain-name.php:148
+#: bluishost-elements/domain-name.php:154
+#: bluishost-elements/domain-name.php:160
+#: bluishost-elements/domain-name.php:166
+#: bluishost-elements/domain-name.php:172
+#: bluishost-elements/domain-name.php:178
+#: bluishost-elements/domain-name.php:184
+#: bluishost-elements/domain-name.php:190
+#: bluishost-elements/domain-name.php:196
+#: bluishost-elements/domain-name.php:202
+#: bluishost-elements/domain-name.php:212
+#: bluishost-elements/domain-search.php:114
+#: bluishost-elements/domain-search.php:120
+#: bluishost-elements/domain-search.php:130
+#: bluishost-elements/domain-search.php:140
+#: bluishost-elements/domain-search.php:150
+#: bluishost-elements/domain-search.php:160
+#: bluishost-elements/domain-search.php:170
+#: bluishost-elements/domain-search.php:180
+#: bluishost-elements/domain-search.php:186
+#: bluishost-elements/domain-search.php:196
+#: bluishost-elements/domain-search.php:212
+#: bluishost-elements/domain-search.php:226
+#: bluishost-elements/domain-search.php:237
+#: bluishost-elements/domain-search.php:248
+#: bluishost-elements/domain-search.php:262
+#: bluishost-elements/domain-search.php:276
+#: bluishost-elements/domain-search.php:287
+#: bluishost-elements/domain-search.php:298
+#: bluishost-elements/domain-search.php:305
+#: bluishost-elements/domain-search.php:310
+#: bluishost-elements/domain-search.php:316
+#: bluishost-elements/domain-search.php:326
+#: bluishost-elements/domain-search.php:332
+#: bluishost-elements/domain-search.php:341
+#: bluishost-elements/facilities.php:203 bluishost-elements/facilities.php:209
+#: bluishost-elements/facilities.php:215 bluishost-elements/facilities.php:221
+#: bluishost-elements/facilities.php:227 bluishost-elements/facilities.php:233
+#: bluishost-elements/facilities.php:239 bluishost-elements/facilities.php:245
+#: bluishost-elements/facilities.php:254
+#: bluishost-elements/feature-group.php:224
+#: bluishost-elements/feature-group.php:230
+#: bluishost-elements/feature-group.php:236
+#: bluishost-elements/feature-group.php:242
+#: bluishost-elements/feature-group.php:252
+#: bluishost-elements/feature-group.php:261 bluishost-elements/feature.php:249
+#: bluishost-elements/feature.php:255 bluishost-elements/feature.php:261
+#: bluishost-elements/feature.php:267 bluishost-elements/feature.php:277
+#: bluishost-elements/feature.php:287 bluishost-elements/feature.php:297
+#: bluishost-elements/feature.php:306 bluishost-elements/map.php:62
+#: bluishost-elements/map.php:71 bluishost-elements/newsletter.php:67
+#: bluishost-elements/newsletter.php:73 bluishost-elements/newsletter.php:79
+#: bluishost-elements/newsletter.php:85 bluishost-elements/newsletter.php:91
+#: bluishost-elements/newsletter.php:97 bluishost-elements/newsletter.php:103
+#: bluishost-elements/newsletter.php:109 bluishost-elements/newsletter.php:118
+#: bluishost-elements/pricing-filter.php:132
+#: bluishost-elements/pricing-filter.php:139
+#: bluishost-elements/pricing-filter.php:146
+#: bluishost-elements/pricing-filter.php:153
+#: bluishost-elements/pricing-filter.php:160
+#: bluishost-elements/pricing-filter.php:167
+#: bluishost-elements/pricing-filter.php:174
+#: bluishost-elements/pricing-filter.php:181
+#: bluishost-elements/pricing-filter.php:188
+#: bluishost-elements/pricing-filter.php:195
+#: bluishost-elements/pricing-filter.php:202
+#: bluishost-elements/pricing-filter.php:209
+#: bluishost-elements/pricing-filter.php:216
+#: bluishost-elements/pricing-filter.php:223
+#: bluishost-elements/pricing-filter.php:230
+#: bluishost-elements/pricing-filter.php:237
+#: bluishost-elements/pricing-filter.php:244
+#: bluishost-elements/pricing-filter.php:251
+#: bluishost-elements/pricing-filter.php:259
+#: bluishost-elements/pricing-filter.php:268 bluishost-elements/pricing.php:282
+#: bluishost-elements/pricing.php:291 bluishost-elements/pricing.php:298
+#: bluishost-elements/pricing.php:304 bluishost-elements/pricing.php:310
+#: bluishost-elements/pricing.php:316 bluishost-elements/pricing.php:326
+#: bluishost-elements/pricing.php:342 bluishost-elements/pricing.php:356
+#: bluishost-elements/pricing.php:367 bluishost-elements/pricing.php:378
+#: bluishost-elements/pricing.php:392 bluishost-elements/pricing.php:406
+#: bluishost-elements/pricing.php:417 bluishost-elements/pricing.php:428
+#: bluishost-elements/pricing.php:435 bluishost-elements/pricing.php:441
+#: bluishost-elements/pricing.php:447 bluishost-elements/pricing.php:457
+#: bluishost-elements/pricing.php:473 bluishost-elements/pricing.php:487
+#: bluishost-elements/pricing.php:498 bluishost-elements/pricing.php:509
+#: bluishost-elements/pricing.php:523 bluishost-elements/pricing.php:537
+#: bluishost-elements/pricing.php:548 bluishost-elements/pricing.php:559
+#: bluishost-elements/pricing.php:566 bluishost-elements/section-heading.php:71
+#: bluishost-elements/section-heading.php:81
+#: bluishost-elements/section-heading.php:95
+#: bluishost-elements/section-heading.php:125
+#: bluishost-elements/section-heading.php:132
+#: bluishost-elements/section-heading.php:140
+#: bluishost-elements/section-heading.php:158
+#: bluishost-elements/section-heading.php:167
+#: bluishost-elements/section-heading.php:186
+#: bluishost-elements/section-heading.php:196
+#: bluishost-elements/section-heading.php:203
+#: bluishost-elements/section-heading.php:209
+#: bluishost-elements/section-heading.php:218
+#: bluishost-elements/service.php:549 bluishost-elements/service.php:555
+#: bluishost-elements/service.php:565 bluishost-elements/service.php:575
+#: bluishost-elements/service.php:589 bluishost-elements/service.php:595
+#: bluishost-elements/service.php:601 bluishost-elements/service.php:611
+#: bluishost-elements/service.php:621 bluishost-elements/service.php:631
+#: bluishost-elements/service.php:643 bluishost-elements/service.php:657
+#: bluishost-elements/service.php:668 bluishost-elements/service.php:679
+#: bluishost-elements/service.php:689 bluishost-elements/service.php:696
+#: bluishost-elements/single-reason.php:79
+#: bluishost-elements/single-reason.php:85
+#: bluishost-elements/single-reason.php:91
+#: bluishost-elements/single-reason.php:97
+#: bluishost-elements/single-reason.php:103
+#: bluishost-elements/single-reason.php:109
+#: bluishost-elements/single-reason.php:115
+#: bluishost-elements/single-reason.php:125
+#: bluishost-elements/social-icon.php:97 bluishost-elements/social-icon.php:103
+#: bluishost-elements/social-icon.php:109
+#: bluishost-elements/social-icon.php:118
+#: bluishost-elements/team-single-el.php:87
+#: bluishost-elements/team-single-el.php:93
+#: bluishost-elements/team-single-el.php:99
+#: bluishost-elements/team-single-el.php:105
+#: bluishost-elements/team-single-el.php:111
+#: bluishost-elements/team-single-el.php:117
+#: bluishost-elements/team-single-el.php:126
+#: bluishost-elements/team-single-el.php:133
+#: bluishost-elements/testimonial.php:323
+#: bluishost-elements/testimonial.php:336
+#: bluishost-elements/testimonial.php:348
+#: bluishost-elements/testimonial.php:358
+#: bluishost-elements/testimonial.php:364
+#: bluishost-elements/testimonial.php:370
+#: bluishost-elements/testimonial.php:376
+#: bluishost-elements/testimonial.php:386
+#: bluishost-elements/testimonial.php:396
+#: bluishost-elements/testimonial.php:406
+#: bluishost-elements/testimonial.php:416
+#: bluishost-elements/testimonial.php:426
+#: bluishost-elements/testimonial.php:438
+#: bluishost-elements/testimonial.php:452
+#: bluishost-elements/testimonial.php:463
+#: bluishost-elements/testimonial.php:474
+#: bluishost-elements/testimonial.php:488
+#: bluishost-elements/testimonial.php:502
+#: bluishost-elements/testimonial.php:513
+#: bluishost-elements/testimonial.php:524
+#: bluishost-elements/testimonial.php:534 bluishost-elements/video.php:218
+#: bluishost-elements/video.php:224 bluishost-elements/video.php:230
+#: bluishost-elements/video.php:236 bluishost-elements/video.php:249
+msgid "Design Option"
+msgstr ""
+
+#: bluishost-elements/about.php:82 bluishost-elements/blog.php:122
+#: bluishost-elements/bluishost-section.php:42 bluishost-elements/brand.php:104
+#: bluishost-elements/button.php:275 bluishost-elements/contact-form.php:66
+#: bluishost-elements/contact-info.php:324
+#: bluishost-elements/contact-schedule.php:95 bluishost-elements/counter.php:60
+#: bluishost-elements/domain-extension.php:71
+#: bluishost-elements/domain-name.php:139
+#: bluishost-elements/domain-search.php:112
+#: bluishost-elements/facilities.php:201
+#: bluishost-elements/feature-group.php:222 bluishost-elements/feature.php:247
+#: bluishost-elements/map.php:60 bluishost-elements/newsletter.php:65
+#: bluishost-elements/pricing-filter.php:130 bluishost-elements/pricing.php:280
+#: bluishost-elements/service.php:547 bluishost-elements/single-reason.php:77
+#: bluishost-elements/social-icon.php:95
+#: bluishost-elements/team-single-el.php:85
+#: bluishost-elements/testimonial.php:321 bluishost-elements/video.php:216
+msgid "Design Settings Options"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:368
+msgid "Designation / Address Color"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:72 bluishost-elements/testimonial.php:239
+#: bluishost-elements/testimonial.php:278
+msgid "Designation/Address"
+msgstr ""
+
+#: inc/latest-news-widget.php:126
+msgid "Display post date?"
+msgstr ""
+
+#: inc/contact-information-widget.php:199
+msgid "Display Social Icon?"
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:31
+#: bluishost-elements/domain-search.php:94
+msgid "Domain Extension"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:39
+msgid "Domain Heading"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:52
+msgid "Domain Informatin"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:31 bluishost-elements/domain-name.php:57
+msgid "Domain Name"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:31
+msgid "Domain Search Form"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:39
+msgid "Domain Search Style"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:44
+msgid "Domain Search Style O1"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:45
+msgid "Domain Search Style O2"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:46
+msgid "Domain Search Style O3"
+msgstr ""
+
+#: bluishost-elements/blog.php:153 bluishost-elements/blog.php:180
+#: bluishost-elements/blog.php:188
+msgid "Don't need to use ( px ). Default setting ( px )."
+msgstr ""
+
+#: bluishost.php:183 bluishost.php:192
+msgid "Download your License certificate & purchase code (text) from here "
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:62
+#: bluishost-elements/domain-name.php:108
+#: bluishost-elements/pricing-filter.php:84 bluishost-elements/pricing.php:248
+msgid "Duration"
+msgstr ""
+
+#: inc/contact-information-widget.php:95
+msgid "E-mail"
+msgstr ""
+
+#: bluishost-vc-shortcode-param/bluishost-font-container-param.php:80
+msgid "Element tag"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:471
+msgid "Email"
+msgstr ""
+
+#: bluishost.php:204
+msgid "Email Address"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:220
+#: bluishost-elements/contact-info.php:284
+msgid "Email One"
+msgstr ""
+
+#: bluishost-elements/newsletter.php:53
+msgid "Email Placeholder"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:230
+#: bluishost-elements/contact-info.php:294
+msgid "Email Two"
+msgstr ""
+
+#: inc/contact-information-widget.php:188
+msgid "Email:"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:153
+#: bluishost-elements/section-heading.php:181
+msgid "Enter font size."
+msgstr ""
+
+#: bluishost-elements/section-heading.php:154
+#: bluishost-elements/section-heading.php:182
+msgid "Enter line height."
+msgstr ""
+
+#: bluishost.php:177
+msgid ""
+"Enter your license key here, to activate the product, and get full feature "
+"updates and premium support."
+msgstr ""
+
+#: bluishost-elements/button.php:125 bluishost-elements/button.php:186
+#: bluishost-elements/contact-info.php:68
+#: bluishost-elements/contact-info.php:125 bluishost-elements/facilities.php:47
+#: bluishost-elements/facilities.php:105
+#: bluishost-elements/feature-group.php:74
+#: bluishost-elements/feature-group.php:132 bluishost-elements/feature.php:89
+#: bluishost-elements/feature.php:147 bluishost-elements/pricing.php:99
+#: bluishost-elements/pricing.php:161 bluishost-elements/service.php:79
+#: bluishost-elements/service.php:141 bluishost-elements/service.php:224
+#: bluishost-elements/service.php:286 bluishost-elements/service.php:369
+#: bluishost-elements/service.php:431 bluishost-elements/testimonial.php:111
+#: bluishost-elements/testimonial.php:169 bluishost-elements/video.php:117
+msgid "Entypo"
+msgstr ""
+
+#: bluishost.php:182 bluishost.php:191
+msgid "Envato Account"
+msgstr ""
+
+#: bluishost-elements/blog.php:193
+msgid "Excerpt Color"
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:54
+msgid "Expert In"
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:97
+msgid "Expert In Color"
+msgstr ""
+
+#: bluishost.php:189
+msgid "Extended License"
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:44
+#: bluishost-elements/domain-search.php:100
+msgid "Extension"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:69
+msgid "Extension Bold"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:148
+msgid "Extension Color"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:63
+msgid "Extension Normal"
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:39
+msgid "Extensions"
+msgstr ""
+
+#: bluishost-elements/about.php:135 bluishost-elements/blog.php:228
+#: bluishost-elements/bluishost-section.php:165
+#: bluishost-elements/brand.php:134 bluishost-elements/contact-form.php:83
+#: bluishost-elements/contact-info.php:359
+#: bluishost-elements/contact-schedule.php:130
+#: bluishost-elements/counter.php:89
+#: bluishost-elements/domain-extension.php:125
+#: bluishost-elements/domain-name.php:218
+#: bluishost-elements/domain-search.php:347
+#: bluishost-elements/facilities.php:260
+#: bluishost-elements/feature-group.php:268 bluishost-elements/feature.php:313
+#: bluishost-elements/map.php:77 bluishost-elements/newsletter.php:124
+#: bluishost-elements/pricing-filter.php:274 bluishost-elements/pricing.php:572
+#: bluishost-elements/section-heading.php:224
+#: bluishost-elements/service.php:702 bluishost-elements/social-icon.php:124
+#: bluishost-elements/testimonial.php:540 bluishost-elements/video.php:255
+msgid "Extra Class"
+msgstr ""
+
+#: bluishost-elements/button.php:344 bluishost-elements/button.php:351
+msgid "Extra Class & ID"
+msgstr ""
+
+#: bluishost-elements/about.php:133 bluishost-elements/blog.php:226
+#: bluishost-elements/bluishost-section.php:163
+#: bluishost-elements/brand.php:132 bluishost-elements/button.php:342
+#: bluishost-elements/contact-form.php:81
+#: bluishost-elements/contact-info.php:357
+#: bluishost-elements/contact-schedule.php:128
+#: bluishost-elements/counter.php:87
+#: bluishost-elements/domain-extension.php:123
+#: bluishost-elements/domain-name.php:216
+#: bluishost-elements/domain-search.php:345
+#: bluishost-elements/facilities.php:258
+#: bluishost-elements/feature-group.php:266 bluishost-elements/feature.php:311
+#: bluishost-elements/map.php:75 bluishost-elements/newsletter.php:122
+#: bluishost-elements/pricing-filter.php:272 bluishost-elements/pricing.php:570
+#: bluishost-elements/section-heading.php:222
+#: bluishost-elements/service.php:700 bluishost-elements/social-icon.php:122
+#: bluishost-elements/testimonial.php:538 bluishost-elements/video.php:253
+msgid "Extra Class Name"
+msgstr ""
+
+#: bluishost-elements/button.php:349
+msgid "Extra ID Name"
+msgstr ""
+
+#: bluishost-elements/facilities.php:32
+msgid "Facilities"
+msgstr ""
+
+#: bluishost-elements/feature.php:31 bluishost-elements/pricing-filter.php:101
+#: bluishost-elements/pricing.php:260
+msgid "Feature"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:213
+msgid "Feature Color"
+msgstr ""
+
+#: bluishost-elements/feature-group.php:31
+#: bluishost-elements/feature-group.php:62
+msgid "Feature Group"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:220
+msgid "Feature Hover Color"
+msgstr ""
+
+#: bluishost-elements/feature.php:40
+msgid "Feature Style"
+msgstr ""
+
+#: bluishost-elements/feature.php:45
+msgid "Feature Style O1"
+msgstr ""
+
+#: bluishost-elements/feature.php:46
+msgid "Feature Style O2"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:96
+msgid "Features"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:157
+msgid "Filter Tab Active Background Color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:150
+msgid "Filter Tab Active Text Color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:143
+msgid "Filter Tab Background Color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:136
+msgid "Filter Tab Text Color"
+msgstr ""
+
+#: inc/social-widget.php:65
+msgid "FOLLOW US"
+msgstr ""
+
+#: bluishost-elements/button.php:138 bluishost-elements/contact-info.php:77
+#: bluishost-elements/facilities.php:57 bluishost-elements/feature-group.php:84
+#: bluishost-elements/feature.php:99 bluishost-elements/pricing.php:113
+#: bluishost-elements/service.php:93 bluishost-elements/service.php:238
+#: bluishost-elements/service.php:383 bluishost-elements/social-icon.php:72
+#: bluishost-elements/team-single-el.php:65
+#: bluishost-elements/testimonial.php:121 bluishost-elements/video.php:69
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: bluishost-vc-shortcode-param/bluishost-font-container-param.php:100
+msgid "Font size"
+msgstr ""
+
+#: bluishost-vc-shortcode-param/bluishost-font-container-param.php:162
+msgid "Font style"
+msgstr ""
+
+#: bluishost-elements/blog.php:159
+msgid "Font Weight"
+msgstr ""
+
+#: bluishost-elements/button.php:122 bluishost-elements/contact-info.php:65
+#: bluishost-elements/facilities.php:44 bluishost-elements/feature-group.php:71
+#: bluishost-elements/feature.php:86 bluishost-elements/pricing.php:96
+#: bluishost-elements/service.php:76 bluishost-elements/service.php:221
+#: bluishost-elements/service.php:366 bluishost-elements/testimonial.php:108
+msgid "Fontawesome"
+msgstr ""
+
+#: bluishost-elements/contact-form.php:59
+msgid "Form Shortcode"
+msgstr ""
+
+#: bluishost-elements/service.php:218
+msgid "Front Icon Type"
+msgstr ""
+
+#: inc/contact-form-widget.php:59
+msgid "Get In Touch"
+msgstr ""
+
+#: bluishost.php:185 bluishost.php:194
+msgid "Get Your License Key"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:310
+msgid "Gradient"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:209 bluishost-elements/pricing.php:339
+#: bluishost-elements/pricing.php:470 bluishost-elements/service.php:640
+#: bluishost-elements/testimonial.php:435
+msgid "Gradient Background Color"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:259 bluishost-elements/pricing.php:389
+#: bluishost-elements/pricing.php:520 bluishost-elements/testimonial.php:485
+msgid "Gradient Background Hover Color"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:242
+#: bluishost-elements/domain-search.php:292 bluishost-elements/pricing.php:372
+#: bluishost-elements/pricing.php:422 bluishost-elements/pricing.php:503
+#: bluishost-elements/pricing.php:553 bluishost-elements/service.php:673
+#: bluishost-elements/testimonial.php:468
+#: bluishost-elements/testimonial.php:518
+msgid "Gradient Color End To"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:231
+#: bluishost-elements/domain-search.php:281 bluishost-elements/pricing.php:361
+#: bluishost-elements/pricing.php:411 bluishost-elements/pricing.php:492
+#: bluishost-elements/pricing.php:542 bluishost-elements/service.php:662
+#: bluishost-elements/testimonial.php:457
+#: bluishost-elements/testimonial.php:507
+msgid "Gradient Color Start From"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:44
+#: bluishost-elements/section-heading.php:50
+msgid "Heading"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:37
+msgid "Heading Style"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:42
+msgid "Heading Style O1"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:43
+msgid "Heading Style O2"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:44
+msgid "Heading Style O3"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themelooks.com"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:74
+msgid "Icon"
+msgstr ""
+
+#: bluishost-elements/button.php:100 bluishost-elements/social-icon.php:40
+msgid "Icon Alignment"
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:103
+#: bluishost-elements/testimonial.php:352
+msgid "Icon Color"
+msgstr ""
+
+#: bluishost-elements/button.php:117
+msgid "Icon library"
+msgstr ""
+
+#: bluishost-elements/feature.php:52
+msgid "Icon Position"
+msgstr ""
+
+#: bluishost-elements/facilities.php:180 bluishost-elements/feature.php:222
+#: bluishost-elements/service.php:506 bluishost-elements/video.php:192
+msgid "Icon Size"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:62 bluishost-elements/facilities.php:41
+#: bluishost-elements/feature-group.php:68 bluishost-elements/feature.php:83
+#: bluishost-elements/pricing.php:93 bluishost-elements/service.php:73
+#: bluishost-elements/testimonial.php:105 bluishost-elements/video.php:53
+msgid "Icon Type"
+msgstr ""
+
+#: bluishost-elements/about.php:136 bluishost-elements/blog.php:229
+#: bluishost-elements/bluishost-section.php:166
+#: bluishost-elements/brand.php:135 bluishost-elements/button.php:345
+#: bluishost-elements/contact-form.php:84
+#: bluishost-elements/contact-info.php:360
+#: bluishost-elements/contact-schedule.php:131
+#: bluishost-elements/counter.php:90
+#: bluishost-elements/domain-extension.php:126
+#: bluishost-elements/domain-name.php:219
+#: bluishost-elements/domain-search.php:348
+#: bluishost-elements/facilities.php:261
+#: bluishost-elements/feature-group.php:269 bluishost-elements/feature.php:314
+#: bluishost-elements/map.php:78 bluishost-elements/newsletter.php:125
+#: bluishost-elements/pricing-filter.php:275 bluishost-elements/pricing.php:573
+#: bluishost-elements/section-heading.php:225
+#: bluishost-elements/service.php:703 bluishost-elements/social-icon.php:125
+#: bluishost-elements/testimonial.php:541 bluishost-elements/video.php:256
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: bluishost-elements/button.php:352
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a id name and then refer to it in your css file."
+msgstr ""
+
+#: bluishost-elements/contact-info.php:72
+#: bluishost-elements/contact-info.php:190 bluishost-elements/facilities.php:51
+#: bluishost-elements/facilities.php:170
+#: bluishost-elements/feature-group.php:78
+#: bluishost-elements/feature-group.php:197 bluishost-elements/feature.php:93
+#: bluishost-elements/feature.php:212 bluishost-elements/pricing.php:103
+#: bluishost-elements/pricing.php:226 bluishost-elements/service.php:83
+#: bluishost-elements/service.php:206 bluishost-elements/service.php:228
+#: bluishost-elements/service.php:351 bluishost-elements/service.php:373
+#: bluishost-elements/service.php:496 bluishost-elements/team-single-el.php:42
+#: bluishost-elements/testimonial.php:115 bluishost-elements/video.php:182
+#: inc/about-widget.php:109
+msgid "Image"
+msgstr ""
+
+#: bluishost-elements/facilities.php:225
+msgid "Image / Icon Background Color"
+msgstr ""
+
+#: bluishost-elements/facilities.php:231
+msgid "Image / Icon Hover Background Color"
+msgstr ""
+
+#: bluishost-elements/button.php:129 bluishost-elements/button.php:250
+msgid "Image Icon"
+msgstr ""
+
+#: bluishost-elements/feature-group.php:41
+msgid "Image One"
+msgstr ""
+
+#: bluishost-elements/feature-group.php:55
+msgid "Image Three"
+msgstr ""
+
+#: bluishost-elements/feature-group.php:48
+msgid "Image Two"
+msgstr ""
+
+#: bluishost-elements/button.php:260
+msgid "Image Type"
+msgstr ""
+
+#: inc/about-widget.php:128
+msgid "Image URL:"
+msgstr ""
+
+#: demo-data/demo-import.php:67
+msgid "Import Demo Data"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:200
+msgid "Info One"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:210
+msgid "Info Two"
+msgstr ""
+
+#: bluishost.php:120
+msgid "Invalid"
+msgstr ""
+
+#: bluishost-vc-shortcode-param/bluishost-font-container-param.php:169
+msgid "Italic"
+msgstr ""
+
+#: bluishost-elements/map.php:39
+msgid "Latitude"
+msgstr ""
+
+#: bluishost-elements/button.php:105 bluishost-elements/service.php:57
+#: bluishost-elements/social-icon.php:44
+msgid "Left"
+msgstr ""
+
+#: bluishost-vc-shortcode-param/bluishost-font-container-param.php:146
+msgid "Letter spacing"
+msgstr ""
+
+#: bluishost.php:200
+msgid "License code"
+msgstr ""
+
+#: bluishost.php:134
+msgid "License Expired on"
+msgstr ""
+
+#: bluishost.php:127
+msgid "License Type"
+msgstr ""
+
+#: bluishost-vc-shortcode-param/bluishost-font-container-param.php:115
+msgid "Line height"
+msgstr ""
+
+#: bluishost-elements/button.php:126 bluishost-elements/button.php:202
+#: bluishost-elements/contact-info.php:69
+#: bluishost-elements/contact-info.php:141 bluishost-elements/facilities.php:48
+#: bluishost-elements/facilities.php:121
+#: bluishost-elements/feature-group.php:75
+#: bluishost-elements/feature-group.php:148 bluishost-elements/feature.php:90
+#: bluishost-elements/feature.php:163 bluishost-elements/pricing.php:100
+#: bluishost-elements/pricing.php:177 bluishost-elements/service.php:80
+#: bluishost-elements/service.php:157 bluishost-elements/service.php:225
+#: bluishost-elements/service.php:302 bluishost-elements/service.php:370
+#: bluishost-elements/service.php:447 bluishost-elements/testimonial.php:112
+#: bluishost-elements/testimonial.php:185 bluishost-elements/video.php:133
+msgid "Linecons"
+msgstr ""
+
+#: bluishost-elements/about.php:73 bluishost-elements/blog.php:113
+msgid "Link Target"
+msgstr ""
+
+#: bluishost.php:182 bluishost.php:191
+msgid "Login To Your "
+msgstr ""
+
+#: bluishost-elements/map.php:46
+msgid "Longitude"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:473
+#: bluishost-elements/contact-info.php:475
+#: bluishost-elements/contact-info.php:553
+#: bluishost-elements/contact-info.php:556
+msgid "mailto:"
+msgstr ""
+
+#: bluishost-elements/map.php:32 bluishost-elements/map.php:42
+#: bluishost-elements/map.php:49 bluishost-elements/map.php:56
+msgid "Map"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:90
+msgid "Margin Bottom"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:76
+msgid "Margin Top"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:64
+msgid "Margin Type"
+msgstr ""
+
+#: bluishost-elements/button.php:128 bluishost-elements/button.php:234
+#: bluishost-elements/contact-info.php:71
+#: bluishost-elements/contact-info.php:173 bluishost-elements/facilities.php:50
+#: bluishost-elements/facilities.php:153
+#: bluishost-elements/feature-group.php:77
+#: bluishost-elements/feature-group.php:180 bluishost-elements/feature.php:92
+#: bluishost-elements/feature.php:195 bluishost-elements/pricing.php:102
+#: bluishost-elements/pricing.php:209 bluishost-elements/service.php:82
+#: bluishost-elements/service.php:189 bluishost-elements/service.php:227
+#: bluishost-elements/service.php:334 bluishost-elements/service.php:372
+#: bluishost-elements/service.php:479 bluishost-elements/testimonial.php:114
+#: bluishost-elements/testimonial.php:217 bluishost-elements/video.php:165
+msgid "Material"
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:61
+msgid "Member Social Media"
+msgstr ""
+
+#: bluishost-elements/blog.php:95
+msgid "Meta Show / Hide"
+msgstr ""
+
+#: inc/contact-information-widget.php:178
+msgid "Mobile One:"
+msgstr ""
+
+#: inc/contact-information-widget.php:183
+msgid "Mobile Two:"
+msgstr ""
+
+#: bluishost-elements/button.php:127 bluishost-elements/button.php:218
+#: bluishost-elements/contact-info.php:70
+#: bluishost-elements/contact-info.php:157 bluishost-elements/facilities.php:49
+#: bluishost-elements/facilities.php:137
+#: bluishost-elements/feature-group.php:76
+#: bluishost-elements/feature-group.php:164 bluishost-elements/feature.php:91
+#: bluishost-elements/feature.php:179 bluishost-elements/pricing.php:101
+#: bluishost-elements/pricing.php:193 bluishost-elements/service.php:81
+#: bluishost-elements/service.php:173 bluishost-elements/service.php:226
+#: bluishost-elements/service.php:318 bluishost-elements/service.php:371
+#: bluishost-elements/service.php:463 bluishost-elements/testimonial.php:113
+#: bluishost-elements/testimonial.php:201 bluishost-elements/video.php:149
+msgid "Monosocial"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:128
+msgid "More Button Text"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:134
+msgid "More Button Url"
+msgstr ""
+
+#: bluishost-template/single-gallery.php:144
+msgid "More Projects :"
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:48
+#: bluishost-elements/testimonial.php:67 bluishost-elements/testimonial.php:234
+#: bluishost-elements/testimonial.php:273
+msgid "Name"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:300
+msgid "Navigation"
+msgstr ""
+
+#: bluishost-elements/newsletter.php:32
+msgid "Newsletter"
+msgstr ""
+
+#: inc/about-widget.php:115
+msgid "No image selected"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:309
+msgid "Normal"
+msgstr ""
+
+#: inc/latest-news-widget.php:120
+msgid "Number of posts to show: "
+msgstr ""
+
+#: bluishost-elements/feature.php:63
+msgid "Offset Column"
+msgstr ""
+
+#: bluishost-elements/feature.php:68
+msgid "Offset Column 01"
+msgstr ""
+
+#: bluishost-elements/feature.php:69
+msgid "Offset Column 02"
+msgstr ""
+
+#: bluishost-elements/feature.php:70
+msgid "Offset Column 03"
+msgstr ""
+
+#: bluishost-elements/feature.php:71
+msgid "Offset Column 04"
+msgstr ""
+
+#: bluishost-elements/feature.php:72
+msgid "Offset Column 05"
+msgstr ""
+
+#: bluishost-elements/feature.php:73
+msgid "Offset Column 06"
+msgstr ""
+
+#: bluishost-elements/blog.php:454
+msgid "on"
+msgstr ""
+
+#: demo-data/demo-import.php:66
+msgid "One Click Demo Import"
+msgstr ""
+
+#: bluishost-elements/button.php:123 bluishost-elements/contact-info.php:66
+#: bluishost-elements/facilities.php:45 bluishost-elements/feature-group.php:72
+#: bluishost-elements/feature.php:87 bluishost-elements/pricing.php:97
+#: bluishost-elements/service.php:77 bluishost-elements/service.php:222
+#: bluishost-elements/service.php:367 bluishost-elements/testimonial.php:109
+msgid "Openiconic"
+msgstr ""
+
+#: bluishost-elements/button.php:154 bluishost-elements/contact-info.php:93
+#: bluishost-elements/facilities.php:73
+#: bluishost-elements/feature-group.php:100 bluishost-elements/feature.php:115
+#: bluishost-elements/pricing.php:129 bluishost-elements/service.php:109
+#: bluishost-elements/service.php:254 bluishost-elements/service.php:399
+#: bluishost-elements/testimonial.php:137 bluishost-elements/video.php:85
+msgid "Openiconic Icon"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:299
+msgid "Pagination"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:293
+msgid "Pagination / Navigation"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:306
+msgid "Pagination / Navigation Background Type"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:410
+msgid "pagination Border Color"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:420
+msgid "pagination Icon Color"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:124
+msgid "Parallax"
+msgstr ""
+
+#: bluishost-elements/blog.php:128 bluishost-elements/bluishost-section.php:65
+#: bluishost-elements/domain-search.php:118
+#: bluishost-elements/testimonial.php:341
+msgid "Pattern Image"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:484
+msgid "Phone"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:79
+msgid "Placeholder"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:178
+msgid "Placeholder Color"
+msgstr ""
+
+#: bluishost.php:28
+msgid ""
+"Please activate your license to get full access to the theme, import demo "
+"data, core features, updates, premium support, etc."
+msgstr ""
+
+#: bluishost-elements/domain-search.php:485
+msgid "Please enter domain name"
+msgstr ""
+
+#: bluishost-elements/button.php:265
+msgid "PNG/JPEG Image"
+msgstr ""
+
+#: bluishost-elements/pricing.php:61
+msgid "Popular"
+msgstr ""
+
+#: bluishost-elements/pricing.php:796
+msgid "Popular Sale"
+msgstr ""
+
+#: bluishost-elements/pricing.php:71
+msgid "Popular Text"
+msgstr ""
+
+#: bluishost-elements/blog.php:211
+msgid "Post Background Color"
+msgstr ""
+
+#: bluishost-elements/blog.php:186
+msgid "Post Meta Font Size"
+msgstr ""
+
+#: bluishost-elements/blog.php:54
+msgid "Post Per Page"
+msgstr ""
+
+#: bluishost-elements/blog.php:449
+msgid "Posted  by"
+msgstr ""
+
+#: bluishost-elements/blog.php:397 inc/latest-news-widget.php:68
+msgid "Posted on"
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:56
+#: bluishost-elements/domain-name.php:102 bluishost-elements/pricing.php:242
+msgid "Price"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:78
+msgid "price"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:199
+msgid "Price Background Color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:192
+msgid "Price Border Color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:178
+msgid "Price Color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:206
+msgid "Price Hover Background Color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:185
+msgid "Price Hover Color"
+msgstr ""
+
+#: bluishost-elements/pricing.php:255
+msgid "Pricing Features"
+msgstr ""
+
+#: bluishost-elements/pricing.php:31
+msgid "Pricing Table"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:32
+msgid "Pricing Table Filter"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:43
+#: bluishost-elements/pricing-filter.php:49
+#: bluishost-elements/pricing-filter.php:50
+msgid "Pricing Table Settings"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:61
+msgid "Pricing Tables"
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:109
+#: bluishost-elements/testimonial.php:380
+msgid "Primary Color"
+msgstr ""
+
+#: bluishost-template/single-gallery.php:88
+msgid "Project Done"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:114
+msgid "Purchase Text"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:120
+msgid "Purchase Url"
+msgstr ""
+
+#: bluishost-elements/button.php:96
+msgid "Put icon In Button."
+msgstr ""
+
+#: bluishost-elements/service.php:719
+msgid "Read me"
+msgstr ""
+
+#: bluishost-elements/single-reason.php:40
+#: bluishost-elements/single-reason.php:65
+#: bluishost-elements/single-reason.php:73
+msgid "Reason"
+msgstr ""
+
+#: inc/latest-news-widget.php:96
+msgid "Recent News"
+msgstr ""
+
+#: bluishost.php:180
+msgid "Regular License"
+msgstr ""
+
+#: inc/about-widget.php:120
+msgid "Remove"
+msgstr ""
+
+#: bluishost-elements/button.php:106 bluishost-elements/service.php:65
+#: bluishost-elements/social-icon.php:45
+msgid "Right"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:101
+msgid "Rotate Background Color"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:88
+msgid "Schedule Description"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:82
+msgid "Schedule Title"
+msgstr ""
+
+#: bluishost.php:184 bluishost.php:193
+msgid "Screenshot"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:366
+msgid "Search"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:73
+msgid "Search Action Url"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:168
+msgid "Search Field Border Color"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:487
+msgid "Search Now"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:412
+msgid "Search Your Domain name"
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:115
+#: bluishost-elements/testimonial.php:390
+msgid "Secondary Color"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:28
+msgid "Section Heading"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:145
+msgid "Section Heading Typography"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:138
+msgid "Section Heading Typography Settings"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:172
+msgid "Section Sub Heading Typography"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:165
+msgid "Section Sub Heading Typography Settings"
+msgstr ""
+
+#: bluishost-elements/blog.php:245
+msgid "See More"
+msgstr ""
+
+#: bluishost-elements/blog.php:103
+msgid "Select blog category show / hide ( Default select show )."
+msgstr ""
+
+#: bluishost-elements/blog.php:96
+msgid "Select blog meta show / hide ( Default select show )."
+msgstr ""
+
+#: bluishost-elements/blog.php:42
+msgid "Select blog style"
+msgstr ""
+
+#: bluishost-elements/brand.php:112
+msgid "Select border hide ( Default select show )."
+msgstr ""
+
+#: bluishost-elements/brand.php:41
+msgid "Select brand style"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:266
+msgid "Select checkbox to show label"
+msgstr ""
+
+#: bluishost-elements/social-icon.php:58
+msgid "Select checkbox to show social label"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:155
+#: bluishost-elements/section-heading.php:183
+msgid "Select color for your element."
+msgstr ""
+
+#: bluishost-elements/domain-search.php:40
+msgid "Select domain search style"
+msgstr ""
+
+#: bluishost-elements/feature.php:41
+msgid "Select feature style"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:105
+msgid "Select Heading alignment"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:38
+msgid "Select heading style"
+msgstr ""
+
+#: bluishost-elements/button.php:150 bluishost-elements/button.php:166
+#: bluishost-elements/button.php:182 bluishost-elements/button.php:198
+#: bluishost-elements/button.php:214 bluishost-elements/button.php:230
+#: bluishost-elements/button.php:246 bluishost-elements/contact-info.php:89
+#: bluishost-elements/contact-info.php:105
+#: bluishost-elements/contact-info.php:121
+#: bluishost-elements/contact-info.php:137
+#: bluishost-elements/contact-info.php:153
+#: bluishost-elements/contact-info.php:169
+#: bluishost-elements/contact-info.php:185
+#: bluishost-elements/domain-name.php:85 bluishost-elements/facilities.php:69
+#: bluishost-elements/facilities.php:85 bluishost-elements/facilities.php:101
+#: bluishost-elements/facilities.php:117 bluishost-elements/facilities.php:133
+#: bluishost-elements/facilities.php:149 bluishost-elements/facilities.php:165
+#: bluishost-elements/feature-group.php:96
+#: bluishost-elements/feature-group.php:112
+#: bluishost-elements/feature-group.php:128
+#: bluishost-elements/feature-group.php:144
+#: bluishost-elements/feature-group.php:160
+#: bluishost-elements/feature-group.php:176
+#: bluishost-elements/feature-group.php:192 bluishost-elements/feature.php:111
+#: bluishost-elements/feature.php:127 bluishost-elements/feature.php:143
+#: bluishost-elements/feature.php:159 bluishost-elements/feature.php:175
+#: bluishost-elements/feature.php:191 bluishost-elements/feature.php:207
+#: bluishost-elements/pricing.php:125 bluishost-elements/pricing.php:141
+#: bluishost-elements/pricing.php:157 bluishost-elements/pricing.php:173
+#: bluishost-elements/pricing.php:189 bluishost-elements/pricing.php:205
+#: bluishost-elements/pricing.php:221 bluishost-elements/service.php:105
+#: bluishost-elements/service.php:121 bluishost-elements/service.php:137
+#: bluishost-elements/service.php:153 bluishost-elements/service.php:169
+#: bluishost-elements/service.php:185 bluishost-elements/service.php:201
+#: bluishost-elements/service.php:250 bluishost-elements/service.php:266
+#: bluishost-elements/service.php:282 bluishost-elements/service.php:298
+#: bluishost-elements/service.php:314 bluishost-elements/service.php:330
+#: bluishost-elements/service.php:346 bluishost-elements/service.php:395
+#: bluishost-elements/service.php:411 bluishost-elements/service.php:427
+#: bluishost-elements/service.php:443 bluishost-elements/service.php:459
+#: bluishost-elements/service.php:475 bluishost-elements/service.php:491
+#: bluishost-elements/social-icon.php:83
+#: bluishost-elements/team-single-el.php:72
+#: bluishost-elements/testimonial.php:133
+#: bluishost-elements/testimonial.php:149
+#: bluishost-elements/testimonial.php:165
+#: bluishost-elements/testimonial.php:181
+#: bluishost-elements/testimonial.php:197
+#: bluishost-elements/testimonial.php:213
+#: bluishost-elements/testimonial.php:229 bluishost-elements/video.php:81
+#: bluishost-elements/video.php:97 bluishost-elements/video.php:113
+#: bluishost-elements/video.php:129 bluishost-elements/video.php:145
+#: bluishost-elements/video.php:161 bluishost-elements/video.php:177
+msgid "Select icon from library."
+msgstr ""
+
+#: bluishost-elements/button.php:119
+msgid "Select Icon Type"
+msgstr ""
+
+#: inc/about-widget.php:122
+msgid "Select Image"
+msgstr ""
+
+#: bluishost-elements/button.php:256
+msgid "Select Image icon."
+msgstr ""
+
+#: bluishost-elements/button.php:271
+msgid "Select Image Type."
+msgstr ""
+
+#: bluishost-elements/feature.php:64
+msgid "Select offset column"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:294
+msgid "Select pagination / nevigation"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:41
+msgid "Select testimonial style"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:180
+msgid "Select text alignment."
+msgstr ""
+
+#: bluishost-elements/service.php:32
+msgid "Service"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:276
+msgid "Set address."
+msgstr ""
+
+#: bluishost-elements/service.php:695
+msgid "Set animation time delay ( Example : .5 )"
+msgstr ""
+
+#: bluishost-elements/pricing.php:297
+msgid "Set animation time delay."
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:258
+msgid "Set border color"
+msgstr ""
+
+#: bluishost-elements/brand.php:55 bluishost-elements/brand.php:75
+msgid "Set brand image"
+msgstr ""
+
+#: bluishost-elements/brand.php:63 bluishost-elements/brand.php:83
+msgid "Set brand image."
+msgstr ""
+
+#: bluishost-elements/service.php:529
+msgid "Set Button / Link Text."
+msgstr ""
+
+#: bluishost-elements/service.php:539
+msgid "Set Button / Link URL."
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:229
+msgid "Set button background color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:236
+msgid "Set button hover background color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:250
+msgid "Set button hover text color"
+msgstr ""
+
+#: bluishost-elements/button.php:89
+msgid "Set Button Link Behavior."
+msgstr ""
+
+#: bluishost-elements/button.php:64 bluishost-elements/button.php:77
+msgid "Set Button Style."
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:243
+msgid "Set button text color"
+msgstr ""
+
+#: bluishost-elements/button.php:43
+msgid "Set Button Text."
+msgstr ""
+
+#: bluishost-elements/pricing.php:269
+msgid "Set button text."
+msgstr ""
+
+#: bluishost-elements/button.php:50
+msgid "Set Button URL."
+msgstr ""
+
+#: bluishost-elements/pricing.php:275
+msgid "Set button url."
+msgstr ""
+
+#: bluishost-elements/counter.php:42
+msgid "Set counter"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:90 bluishost-elements/counter.php:55
+msgid "Set counter number."
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:84 bluishost-elements/counter.php:49
+msgid "Set counter title."
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:60
+msgid "Set country name."
+msgstr ""
+
+#: bluishost-elements/pricing.php:238
+msgid "Set Currency."
+msgstr ""
+
+#: bluishost-elements/single-reason.php:55
+msgid "Set description."
+msgstr ""
+
+#: bluishost-elements/testimonial.php:74 bluishost-elements/testimonial.php:241
+#: bluishost-elements/testimonial.php:280
+msgid "Set designation."
+msgstr ""
+
+#: bluishost-elements/pricing.php:250
+msgid "Set duration."
+msgstr ""
+
+#: bluishost-elements/contact-info.php:222
+#: bluishost-elements/contact-info.php:232
+#: bluishost-elements/contact-info.php:286
+#: bluishost-elements/contact-info.php:296
+msgid "Set email."
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:215
+msgid "Set feature color"
+msgstr ""
+
+#: bluishost-elements/facilities.php:197
+#: bluishost-elements/feature-group.php:215 bluishost-elements/feature.php:239
+#: bluishost-elements/service.php:523
+msgid "Set feature descriptions."
+msgstr ""
+
+#: bluishost-elements/feature-group.php:63
+msgid "Set Feature Group"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:222
+msgid "Set feature hover color"
+msgstr ""
+
+#: bluishost-elements/facilities.php:191
+#: bluishost-elements/feature-group.php:209
+#: bluishost-elements/feature-group.php:262 bluishost-elements/feature.php:233
+#: bluishost-elements/feature.php:307 bluishost-elements/service.php:517
+#: bluishost-elements/team-single-el.php:50
+msgid "Set feature title."
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:159
+msgid "Set filter tab active background color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:152
+msgid "Set filter tab active text color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:145
+msgid "Set filter tab background color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:138
+msgid "Set filter tab text color"
+msgstr ""
+
+#: bluishost-elements/contact-form.php:62
+msgid "Set form shortcode ( get shortcode from contact form 7 )."
+msgstr ""
+
+#: bluishost-elements/button.php:108
+msgid "Set Icon Alignment."
+msgstr ""
+
+#: bluishost-elements/facilities.php:185 bluishost-elements/feature.php:227
+#: bluishost-elements/service.php:511 bluishost-elements/video.php:197
+msgid "Set icon font size ( px )"
+msgstr ""
+
+#: bluishost-elements/feature-group.php:43
+msgid "Set image one."
+msgstr ""
+
+#: bluishost-elements/feature-group.php:57
+msgid "Set image three."
+msgstr ""
+
+#: bluishost-elements/feature-group.php:50
+msgid "Set image two."
+msgstr ""
+
+#: bluishost-elements/facilities.php:172
+#: bluishost-elements/feature-group.php:199 bluishost-elements/feature.php:214
+#: bluishost-elements/pricing.php:228 bluishost-elements/service.php:208
+#: bluishost-elements/service.php:353 bluishost-elements/service.php:498
+#: bluishost-elements/video.php:184
+msgid "Set image."
+msgstr ""
+
+#: bluishost-elements/contact-info.php:192
+msgid "Set Info image image."
+msgstr ""
+
+#: bluishost-elements/contact-info.php:202
+msgid "Set info one."
+msgstr ""
+
+#: bluishost-elements/contact-info.php:212
+msgid "Set info two."
+msgstr ""
+
+#: bluishost-elements/map.php:41
+msgid "Set latitude."
+msgstr ""
+
+#: bluishost-elements/map.php:48
+msgid "Set longitude."
+msgstr ""
+
+#: bluishost-elements/contact-info.php:242
+#: bluishost-elements/contact-info.php:252
+#: bluishost-elements/contact-info.php:306
+#: bluishost-elements/contact-info.php:316
+msgid "Set number."
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:67
+#: bluishost-elements/testimonial.php:343
+msgid "Set pattern image."
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:201
+msgid "Set price background color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:194
+msgid "Set price border color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:180
+msgid "Set price color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:208
+msgid "Set price hover background color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:187
+msgid "Set price hover color color"
+msgstr ""
+
+#: bluishost-elements/pricing.php:244
+msgid "Set price."
+msgstr ""
+
+#: bluishost-elements/pricing.php:53
+msgid "Set pricing table active."
+msgstr ""
+
+#: bluishost-elements/pricing.php:63
+msgid "Set pricing table ribbon."
+msgstr ""
+
+#: bluishost-elements/pricing.php:89
+msgid "Set pricing table sub title."
+msgstr ""
+
+#: bluishost-elements/pricing.php:83
+msgid "Set pricing table title."
+msgstr ""
+
+#: bluishost-elements/single-reason.php:41
+msgid "Set reasons"
+msgstr ""
+
+#: bluishost-elements/pricing.php:73
+msgid "Set ribbon text."
+msgstr ""
+
+#: bluishost-elements/contact-info.php:53
+#: bluishost-elements/contact-schedule.php:77
+msgid "Set schedule"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:54
+msgid "Set schedule title."
+msgstr ""
+
+#: bluishost-elements/section-heading.php:53
+msgid "Set section heading."
+msgstr ""
+
+#: bluishost-elements/section-heading.php:60
+msgid "Set section sub heading."
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:44 bluishost-elements/video.php:49
+msgid "Set service image."
+msgstr ""
+
+#: bluishost-elements/social-icon.php:63
+msgid "Set social icon"
+msgstr ""
+
+#: bluishost-elements/social-icon.php:89
+msgid "Set social url."
+msgstr ""
+
+#: bluishost-elements/section-heading.php:202
+msgid "Set sub heading animation time delay"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:66
+#: bluishost-elements/contact-schedule.php:72
+msgid "Set sub title."
+msgstr ""
+
+#: bluishost-elements/testimonial.php:57 bluishost-elements/testimonial.php:90
+#: bluishost-elements/testimonial.php:257
+msgid "Set Testimonial"
+msgstr ""
+
+#: bluishost-elements/video.php:204
+msgid "Set text."
+msgstr ""
+
+#: bluishost-elements/section-heading.php:131
+msgid "Set title animation time delay"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:166
+msgid "Set title color"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:173
+msgid "Set title hover color"
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:56
+msgid "Set title url."
+msgstr ""
+
+#: bluishost-elements/contact-form.php:55
+#: bluishost-elements/single-reason.php:48
+#: bluishost-elements/single-reason.php:64
+#: bluishost-elements/single-reason.php:72
+msgid "Set title."
+msgstr ""
+
+#: bluishost-elements/video.php:211
+msgid "Set video url."
+msgstr ""
+
+#: bluishost-elements/map.php:55
+msgid "Set zoom."
+msgstr ""
+
+#: bluishost-elements/button.php:68
+msgid "Shape"
+msgstr ""
+
+#: inc/subscribe-widget.php:82
+msgid "Short Descriptions:"
+msgstr ""
+
+#. unique ID
+#: bluishost-core.php:40 bluishost-core.php:74
+msgid "Shortcode"
+msgstr ""
+
+#: inc/contact-form-widget.php:74
+msgid "Shortcode:"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:261
+msgid "Show Label"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:208 bluishost-elements/pricing.php:338
+#: bluishost-elements/pricing.php:469 bluishost-elements/service.php:639
+#: bluishost-elements/testimonial.php:434
+msgid "Simple Background Color"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:258 bluishost-elements/pricing.php:388
+#: bluishost-elements/pricing.php:519 bluishost-elements/testimonial.php:484
+msgid "Simple Background Hover Color"
+msgstr ""
+
+#: bluishost-elements/single-reason.php:32
+msgid "Single Reason"
+msgstr ""
+
+#: bluishost-core.php:73
+msgid "Slider Name"
+msgstr ""
+
+#: bluishost-elements/social-icon.php:31
+msgid "Social Icon"
+msgstr ""
+
+#: bluishost-elements/social-icon.php:53
+msgid "Social Label"
+msgstr ""
+
+#: bluishost-elements/social-icon.php:87
+msgid "Social Url"
+msgstr ""
+
+#: inc/bluishostcore-functions.php:202
+msgid "Sorry something went wrong."
+msgstr ""
+
+#: bluishost-elements/domain-extension.php:209
+msgid "Starting From"
+msgstr ""
+
+#: bluishost.php:115 bluishost-elements/domain-name.php:90
+msgid "Status"
+msgstr ""
+
+#: bluishost-elements/button.php:54
+msgid "Style"
+msgstr ""
+
+#: bluishost-elements/contact-form.php:44
+#: bluishost-elements/contact-info.php:44 bluishost-elements/pricing.php:44
+#: bluishost-elements/service.php:45
+msgid "Style One"
+msgstr ""
+
+#: bluishost-elements/contact-form.php:45
+#: bluishost-elements/contact-info.php:45 bluishost-elements/pricing.php:45
+#: bluishost-elements/service.php:46
+msgid "Style Two"
+msgstr ""
+
+#: bluishost-elements/pricing.php:40 bluishost-elements/service.php:41
+msgid "Style Type"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:57
+msgid "Sub Heading"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:200
+msgid "Sub Heading Animation Time Delay"
+msgstr ""
+
+#: bluishost-elements/about.php:49 bluishost-elements/contact-schedule.php:64
+#: bluishost-elements/pricing.php:87
+msgid "Sub Title"
+msgstr ""
+
+#: bluishost-elements/newsletter.php:220 inc/subscribe-widget.php:67
+msgid "Subscribe"
+msgstr ""
+
+#: bluishost.php:141
+msgid "Support Expired on"
+msgstr ""
+
+#: bluishost-elements/button.php:264
+msgid "SVG"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:55
+msgid "Tab Name"
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:31
+msgid "Team Member"
+msgstr ""
+
+#: bluishost-elements/contact-schedule.php:70
+msgid "Tel Number"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:240
+#: bluishost-elements/contact-info.php:304
+msgid "Tel Number One"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:250
+#: bluishost-elements/contact-info.php:314
+msgid "Tel Number Two"
+msgstr ""
+
+#: bluishost-elements/contact-info.php:486
+#: bluishost-elements/contact-info.php:488
+#: bluishost-elements/contact-info.php:559
+#: bluishost-elements/contact-info.php:562
+msgid "tel:"
+msgstr ""
+
+#: inc/contact-information-widget.php:79
+msgid "Telephone"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:32 bluishost-elements/testimonial.php:43
+#: bluishost-elements/testimonial.php:56 bluishost-elements/testimonial.php:89
+#: bluishost-elements/testimonial.php:256
+#: bluishost-elements/testimonial.php:296
+#: bluishost-elements/testimonial.php:316
+msgid "Testimonial"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:40
+msgid "Testimonial Style"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:46
+msgid "Testimonial Style O1"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:47
+msgid "Testimonial Style O2"
+msgstr ""
+
+#: bluishost-elements/testimonial.php:48
+msgid "Testimonial Style O3"
+msgstr ""
+
+#: bluishost-elements/button.php:40 bluishost-elements/video.php:202
+msgid "Text"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:104
+msgid "Text Align"
+msgstr ""
+
+#: inc/about-widget.php:132
+msgid "Text Area:"
+msgstr ""
+
+#: bluishost-elements/about.php:94 bluishost-elements/button.php:281
+#: bluishost-elements/testimonial.php:374
+msgid "Text Color"
+msgstr ""
+
+#: bluishost-vc-shortcode-param/bluishost-font-container-param.php:129
+msgid "Text color"
+msgstr ""
+
+#: bluishost-elements/button.php:297
+msgid "Text Hover Color"
+msgstr ""
+
+#: bluishost-elements/domain-name.php:145
+msgid "Text Position"
+msgstr ""
+
+#: inc/bluishostcore-functions.php:197
+msgid "Thank you, you have been added to our mailing list."
+msgstr ""
+
+#: bluishost.php:183 bluishost.php:192
+msgid "themeforest.net/downloads"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themelooks"
+msgstr ""
+
+#: inc/bluishostcore-functions.php:200
+msgid "This Email address is already exists."
+msgstr ""
+
+#. Description of the plugin
+msgid "This is a helper plugin of bluishost theme"
+msgstr ""
+
+#: bluishost-elements/about.php:43 bluishost-elements/contact-form.php:52
+#: bluishost-elements/contact-schedule.php:52 bluishost-elements/counter.php:47
+#: bluishost-elements/domain-search.php:53
+#: bluishost-elements/facilities.php:189
+#: bluishost-elements/feature-group.php:207 bluishost-elements/feature.php:231
+#: bluishost-elements/newsletter.php:41
+#: bluishost-elements/pricing-filter.php:66 bluishost-elements/pricing.php:81
+#: bluishost-elements/service.php:515 bluishost-elements/single-reason.php:46
+msgid "Title"
+msgstr ""
+
+#: bluishost-elements/section-heading.php:129
+msgid "Title Animation Time Delay"
+msgstr ""
+
+#: bluishost-elements/domain-search.php:158
+msgid "Title Border Color"
+msgstr ""
+
+#: bluishost-elements/about.php:88 bluishost-elements/blog.php:138
+#: bluishost-elements/domain-search.php:128
+#: bluishost-elements/newsletter.php:71
+#: bluishost-elements/pricing-filter.php:164
+#: bluishost-elements/team-single-el.php:91
+#: bluishost-elements/testimonial.php:362
+msgid "Title Color"
+msgstr ""
+
+#: bluishost-elements/blog.php:151
+msgid "Title Font Size"
+msgstr ""
+
+#: bluishost-elements/pricing-filter.php:171
+msgid "Title Hover Color"
+msgstr ""
+
+#: bluishost-elements/blog.php:144
+msgid "Title Hover hvColor"
+msgstr ""
+
+#: inc/about-widget.php:104 inc/contact-form-widget.php:70
+#: inc/contact-information-widget.php:173 inc/latest-news-widget.php:116
+#: inc/social-widget.php:71 inc/subscribe-widget.php:78
+msgid "Title:"
+msgstr ""
+
+#: inc/contact-information-widget.php:202 inc/social-widget.php:75
+#, php-format
+msgid ""
+"To set social link follow us on widget go to social from Bluishost Options "
+"or <a href=\"%s\" target=\"_blank\">Click Here</a>."
+msgstr ""
+
+#: bluishost-elements/button.php:124 bluishost-elements/button.php:170
+#: bluishost-elements/contact-info.php:67
+#: bluishost-elements/contact-info.php:109 bluishost-elements/facilities.php:46
+#: bluishost-elements/facilities.php:89 bluishost-elements/feature-group.php:73
+#: bluishost-elements/feature-group.php:116 bluishost-elements/feature.php:88
+#: bluishost-elements/feature.php:131 bluishost-elements/pricing.php:98
+#: bluishost-elements/pricing.php:145 bluishost-elements/service.php:78
+#: bluishost-elements/service.php:125 bluishost-elements/service.php:223
+#: bluishost-elements/service.php:270 bluishost-elements/service.php:368
+#: bluishost-elements/service.php:415 bluishost-elements/testimonial.php:110
+#: bluishost-elements/testimonial.php:153 bluishost-elements/video.php:101
+msgid "Typicons"
+msgstr ""
+
+#: bluishost-vc-shortcode-param/bluishost-font-container-param.php:176
+msgid "Underline"
+msgstr ""
+
+#: bluishost-elements/team-single-el.php:76
+msgid "URL"
+msgstr ""
+
+#: bluishost-elements/button.php:47
+msgid "URL ( Link )"
+msgstr ""
+
+#: bluishost.php:118
+msgid "Valid"
+msgstr ""
+
+#: bluishost-elements/video.php:32
+msgid "Video"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:110
+msgid "Video Background"
+msgstr ""
+
+#: bluishost-elements/bluishost-section.php:115
+msgid "Video ID"
+msgstr ""
+
+#: bluishost-elements/video.php:209
+msgid "Video Url"
+msgstr ""
+
+#: bluishost-template/archive-bluishost_services.php:39
+msgid "View Details"
+msgstr ""
+
+#: bluishost-elements/about.php:151
+msgid "View More Details"
+msgstr ""
+
+#: bluishost.php:209
+msgid ""
+"We will send update news of this product by this email address, don't worry, "
+"we hate spam"
+msgstr ""
+
+#: bluishost-elements/blog.php:60
+msgid "Word Visible"
+msgstr ""
+
+#: inc/bluishostcore-functions.php:205
+msgid "You are not allowed."
+msgstr ""
+
+#: inc/subscribe-widget.php:44
+msgid "Your E-mail Address"
+msgstr ""
+
+#: bluishost.php:147
+msgid "Your License Key"
+msgstr ""
+
+#: bluishost-elements/map.php:53
+msgid "Zoom"
+msgstr ""
